@@ -195,7 +195,7 @@ p {
 }
 .middle {
   margin-top: 100px;
-  margin-left: 20px;
+  margin-left: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -204,7 +204,7 @@ p {
 .quote {
   margin-left: 20px;
   margin-bottom: 200px;
-  width: 380px;
+  width: 360px;
 }
 .another {
   margin-top: 40px;
@@ -236,7 +236,7 @@ width: 1000px;
 border-color: white;
 border: 1px solid white;
 border-right: 1px solid white;
-margin-left: 160px;
+margin-left: 150px;
 margin-top: 0px;
 
 }
