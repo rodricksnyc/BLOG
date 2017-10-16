@@ -1,12 +1,24 @@
 body {
 font-family: 'Saira', sans-serif;
-  max-width: 1300px;
-  background-color: black;
+margin-top: 0px;
+background-color: black;
 }
 main {
-  max-width: 1300px;
-  background-color: black;
+margin-top: 0px;
+background-color: black;
+margin-bottom: 50px;
 }
+#buffer {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  padding: 0;
+}
+@media (max-width: 979px) {
+  #buffer {
+    padding-top: 10px;
+  }
+}
+
 a {
   text-decoration: none;
   color: #C6C6C8;
@@ -79,10 +91,10 @@ margin-top: 5px;
   width: 100%;
   font-size: 30px;
   margin-top: 0px;
-  margin-bottom: 0px;
   font-weight: normal;
   font-family: 'Saira', sans-serif;
   color: #C6C6C8;
+  margin-bottom: 100px;
 }
 
 .picture {
