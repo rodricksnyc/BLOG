@@ -168,14 +168,18 @@ h3 {
   padding-top: 200px;
   margin-bottom: 0;
 }
+.firstone {
+  width: 800px
+}
 
 .top-block {
-  margin-left: 450px;
+  margin-left: 200px;
   margin-top: 0px;
   color: #C6C6C8;
   font-size: 16px;
   padding-top: 5px;
-  width: 340px;
+  font-weight: 100;
+  width: 800px;
   display: flex;
   justify-content: center;
   align-items: center;
