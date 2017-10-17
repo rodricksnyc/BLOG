@@ -21,7 +21,7 @@ margin-bottom: 50px;
 @media screen (min-width: 320px) and (max-width: 767px){
     #top {
         display: block;
-    }
+  }
 }
 
 a {
@@ -224,6 +224,11 @@ p {
   align-items: center;
   color: #C6C6C8;
 }
+@media screen (min-width: 320px) and (max-width: 767px){
+    .middle {
+        display: block;
+  }
+}
 .quote {
   margin-left: 20px;
   margin-bottom: 200px;
@@ -237,6 +242,11 @@ p {
   align-items: center;
   color: #C6C6C8;
 }
+@media screen (min-width: 320px) and (max-width: 767px){
+    .another {
+        display: block;
+  }
+}
 .last {
 margin-top: 40px;
 margin-left: 30px;
@@ -245,6 +255,12 @@ justify-content: center;
 align-items: center;
 color: #C6C6C8;
 }
+@media screen (min-width: 320px) and (max-width: 767px){
+    .last {
+        display: block;
+  }
+}
+
 .russia {
   width: 450px;
   margin-left: 20px;
