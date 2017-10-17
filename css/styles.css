@@ -310,8 +310,11 @@ margin-top: 0px;
   align-items: center;
   color: #C6C6C8;
 }
-
-
+@media screen (min-width: 320px) and (max-width: 767px){
+    .dangerous {
+        display: block;
+  }
+}
 
 font {
   margin-left: 20px;
