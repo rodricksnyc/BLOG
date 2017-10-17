@@ -301,6 +301,18 @@ margin-top: 0px;
         display: block;
     }
 }
+
+.dangerous {
+  margin-top: 40px;
+  margin-left: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #C6C6C8;
+}
+
+
+
 font {
   margin-left: 20px;
 }
