@@ -252,6 +252,11 @@ border-right: 1px solid white;
 margin-left: 140px;
 margin-top: 0px;
 }
+@media screen (min-width: 320px) and (max-width: 767px){
+    .inner {
+        display: block;
+    }
+}
 font {
   margin-left: 20px;
 }
