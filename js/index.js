@@ -24,4 +24,4 @@ $('.on').scroll(function () {
   }
 });
 
-loadMore();
+// loadMore();
