@@ -141,10 +141,10 @@ h2 {
   font-size: 22px;
   font-weight: 100;
   font-family: 'Cutive Mono', monospace;
-  margin-left: 490px;
+  margin-left: 670px;
 }
 .right {
-margin-left: 490px;
+margin-left: 670px;
 
 }
 .left {
@@ -271,11 +271,11 @@ color: #C6C6C8;
 }
 
 .inner {
-width: 1000px;
+width: 1180px;
 border-color: white;
 border: 1px solid white;
 border-right: 1px solid white;
-margin-left: 140px;
+margin-left: 80px;
 margin-top: 0px;
 }
 @media screen (min-width: 320px) and (max-width: 767px){
