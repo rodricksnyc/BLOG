@@ -181,9 +181,14 @@ h3 {
   align-items: center;
   font-weight: 100;
 }
-/*.center-block {
-  margin-top: 5px;
-}*/
+.center-block {
+  margin-top: 0px;
+}
+@media screen (min-width: 320px) and (max-width: 767px){
+    .center-block{
+        display: block;
+    }
+}
 h5  {
 color: #C6C6C8;
 font-size: 16px;
@@ -389,9 +394,19 @@ height: 100%;
   border: 1px solid black;
   overflow: auto;
 }
+@media screen (min-width: 320px) and (max-width: 767px){
+    .on {
+        display: block;
+    }
+}
 .two {
   margin-top: 40px;
   font-family: 'Cutive Mono', monospace;
+}
+@media screen (min-width: 320px) and (max-width: 767px){
+    .two {
+        display: block;
+    }
 }
 .footer{
   margin-top: 50px;
