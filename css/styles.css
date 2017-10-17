@@ -106,8 +106,13 @@ margin-top: 5px;
   display: flex;
   justify-content: center;
   align-items: center;
-
 }
+@media screen (min-width: 320px) and (max-width: 767px){
+    .picture {
+        display: block;
+  }
+}
+
 .kompromat {
   width: 1200px;
   background-image: url("../img/main.jpg");
@@ -280,6 +285,7 @@ color: #C6C6C8;
 hr.style4 {
   margin-top: 40px;
 	border-top: .5px dotted #C6C6C8;
+  width: 100%;
 }
 
 .inner {
