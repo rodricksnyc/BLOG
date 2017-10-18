@@ -309,7 +309,7 @@ border-right: 1px solid white;
 margin-left: 60px;
 margin-top: 0px;
 }
-@media screen (min-width: 320px) and (max-width: 767px){
+@media screen (min-width: 600px) and (max-width: 800px){
     .inner {
         display: block;
     }
