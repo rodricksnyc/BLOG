@@ -189,6 +189,11 @@ h3 {
   align-items: center;
   font-weight: 100;
 }
+@media only screen and (max-width:480px){
+     .top-block {
+       display: block;
+     }
+  }
 .center-block {
   margin-top: 20px;
 }
@@ -206,6 +211,12 @@ line-height: 20px;
 margin-left: 5px;
 margin-top: 0px;
 }
+
+@media only screen and (max-width:480px){
+     h5 {
+       display: block;
+     }
+  }
 
 .footy {
   margin-top: 0px;
