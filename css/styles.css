@@ -101,6 +101,11 @@ margin-top: 5px;
   color: #C6C6C8;
   margin-bottom: 100px;
 }
+@media screen (min-width: 320px) and (max-width: 767px){
+    .header {
+        display: block;
+    }
+}
 
 .picture {
   display: flex;
