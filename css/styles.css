@@ -189,11 +189,11 @@ h3 {
   align-items: center;
   font-weight: 100;
 }
-@media only screen and (max-width:480px){
-     .top-block {
-       display: block;
-     }
-  }
+@media screen (min-width: 320px) and (max-width: 767px){
+    .top-block {
+        display: block;
+    }
+}
 .center-block {
   margin-top: 20px;
 }
@@ -212,11 +212,11 @@ margin-left: 5px;
 margin-top: 0px;
 }
 
-@media only screen and (max-width:480px){
-     h5 {
-       display: block;
-     }
-  }
+@media screen (min-width: 320px) and (max-width: 767px){
+    h5 {
+        display: block;
+    }
+}
 
 .footy {
   margin-top: 0px;
