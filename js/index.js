@@ -1,3 +1,26 @@
+$( document ).ready(function() {
+    console.log( "ready!" );
+
+$(".readmore").click(readMore);
+$(".readless").click(readLess);
+
+
+function readMore(event) {
+  event.preventDefault();
+    $(".readmore").hide();
+    $("#show-on-click1").slideDown();
+    $(".readless").show();
+  }
+
+  function readLess(event) {
+    event.preventDefault();
+    $(".readless").hide();
+    $("#show-on-click1").slideUp();
+    $(".readmore").show();
+  }
+
+
+
 function w3_open() {
     document.getElementById("mySidebar").style.display = "block";
 }
@@ -23,5 +46,5 @@ $('.on').scroll(function () {
     loadMore();
   }
 });
-
+});
 // loadMore();
