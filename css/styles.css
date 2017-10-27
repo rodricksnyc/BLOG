@@ -314,11 +314,10 @@ hr.style4 {
 
 .inner {
 width: 1180px;
-height: 500px;
 border-color: white;
 border: 1px solid white;
 border-right: 1px solid white;
-margin-left: 60px;
+margin-left: 50px;
 margin-top: 0px;
 }
 @media screen (min-width: 600px) and (max-width: 800px){
