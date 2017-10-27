@@ -8,17 +8,16 @@ $(".readless").click(readLess);
 function readMore(event) {
   event.preventDefault();
     $(".readmore").hide();
-    $("#show-on-click1").slideDown();
+    $("#show-on-click1").slideDown(1500);
     $(".readless").show();
   }
 
   function readLess(event) {
     event.preventDefault();
     $(".readless").hide();
-    $("#show-on-click1").slideUp();
+    $("#show-on-click1").slideUp(1);
     $(".readmore").show();
   }
-
 
 
 function w3_open() {
