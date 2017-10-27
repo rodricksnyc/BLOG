@@ -15,7 +15,7 @@ function readMore(event) {
   function readLess(event) {
     event.preventDefault();
     $(".readless").hide();
-    $("#show-on-click1").slideUp(1);
+    $("#show-on-click1").slideUp(.0005);
     $(".readmore").show();
   }
 
