@@ -163,10 +163,12 @@ h2 {
 }
 .right {
 margin-left: 730px;
+margin-bottom: 2px;
 
 }
 .left {
   margin-left: 5px;
+  margin-bottom: 2px;
 }
 h4 {
 color: #C6C6C8;
