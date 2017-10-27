@@ -19,6 +19,15 @@ function readMore(event) {
     $(".readmore").show();
   }
 
+ var scrollTop = $(".scrollTop");
+ var scrollSpeed = 3000;
+  $(scrollTop).click(function() {
+   $('html, body').animate({
+     scrollTop: 0
+   }, scrollSpeed);
+
+ });
+
 
 function w3_open() {
     document.getElementById("mySidebar").style.display = "block";
@@ -42,7 +51,7 @@ $('.on').scroll(function () {
   $('.two').html("top: "+top+" diff: "+($(".inner").height() - $(".on").height()));
   if (top >= $(".inner").height() - $(".on").height()) {
     $('.two').append(" bottom");
-    loadMore();
+    // loadMore();
   }
 });
 });
