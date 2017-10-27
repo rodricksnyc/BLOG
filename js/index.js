@@ -8,7 +8,7 @@ $(".readless").click(readLess);
 function readMore(event) {
   event.preventDefault();
     $(".readmore").hide();
-    $("#show-on-click1").slideDown(500);
+    $("#show-on-click1").slideDown(100);
     $(".readless").show();
   }
 
