@@ -1,3 +1,9 @@
+body {
+font-family: 'Saira', sans-serif;
+/*margin-top: 0px;*/
+background-color: black;
+}
+
 h1 {
   color: #C6C6C8;
   font-size: 22px;
@@ -18,18 +24,12 @@ h2 {
   position:
 }
 
-
-body {
-font-family: 'Saira', sans-serif;
-/*margin-top: 0px;*/
-background-color: black;
-}
 main {
 margin-top: 0px;
 background-color: black;
 margin-bottom: 50px;
 }
-#buffer {
+/*#buffer {
   margin-top: 10px;
   margin-bottom: 0px;
   padding: 0;
@@ -39,6 +39,18 @@ margin-bottom: 50px;
     padding-top: 10px;
   }
 }
+#buffer {
+  margin-top: 40px;
+  margin-bottom: 0px;
+  padding: 0;
+  width: 100%;
+}
+
+@media (max-width: 979px) {
+  #buffer {
+    padding-top: 50px;
+  }
+}*/
 @media screen (min-width: 320px) and (max-width: 767px){
     #top {
         display: block;
@@ -214,7 +226,7 @@ h3 {
 .center-block {
   margin-top: 20px;
 }
-@media only screen and (max-width:480px){
+@media screen and (max-width:480px){
      .center-block {
        display: block;
      }
@@ -231,7 +243,8 @@ margin-top: 0px;
 
 @media screen (min-width: 320px) and (max-width: 767px){
     h5 {
-        display: block;
+        font-size: 60px;
+         display: block;
     }
 }
 
