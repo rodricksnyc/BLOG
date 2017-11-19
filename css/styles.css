@@ -243,6 +243,7 @@ font-family: 'Text Me One', sans-serif;
 line-height: 20px;
 margin-left: 5px;
 margin-top: 0px;
+line-height: 30px;
 }
 
 @media screen (min-width: 320px) and (max-width: 767px){
