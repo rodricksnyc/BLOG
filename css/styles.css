@@ -539,10 +539,13 @@ height: 100%;
     }
     .footy {
 
-      font-size: 150px;
+      font-size: 80px;
     }
     .kompromat {
 
-      font-size: 150px;
+      font-size: 80px;
+    }
+    h5 {
+      font-size: 80px;
     }
 }
