@@ -4,6 +4,14 @@ font-family: 'Saira', sans-serif;
 background-color: black;
 }
 
+/*@media only screen (min-width: 320px) and (max-width: 767px){
+    .kompromat {
+      width: 100%;
+      font-size: 50px;
+    }
+}*/
+
+
 h1 {
   color: #C6C6C8;
   font-size: 23px;
@@ -138,11 +146,6 @@ margin-top: 5px;
   color: #C6C6C8;
   margin-bottom: 100px;
 }
-/*@media screen (min-width: 320px) and (max-width: 767px){
-    .header {
-        display: block;
-    }
-}*/
 
 .picture {
   display: flex;
@@ -204,7 +207,7 @@ h3 {
   margin-top: 0px;
   margin-left: 848px;
   color: #C6C6C8;
-  font-size: 20px;
+  /*font-size: 20px;*/
   padding-top: 200px;
   margin-bottom: 0;
 }
@@ -526,4 +529,20 @@ height: 100%;
   margin-top: 10px;
   margin-bottom: 20px;
   font-family: 'Saira', sans-serif;
+}
+
+@media only screen (min-width: 320px) and (max-width: 767px){
+
+    .header {
+        display: block;
+        width: 100%;
+    }
+    .footy {
+
+      font-size: 150px;
+    }
+    .kompromat {
+
+      font-size: 150px;
+    }
 }
