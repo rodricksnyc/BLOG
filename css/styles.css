@@ -51,11 +51,11 @@ margin-bottom: 50px;
     padding-top: 50px;
   }
 }*/
-@media screen (min-width: 320px) and (max-width: 767px){
+/*@media screen (min-width: 320px) and (max-width: 767px){
     #top {
         display: block;
   }
-}
+}*/
 .hide {
   display: none;
 }
@@ -138,22 +138,22 @@ margin-top: 5px;
   color: #C6C6C8;
   margin-bottom: 100px;
 }
-@media screen (min-width: 320px) and (max-width: 767px){
+/*@media screen (min-width: 320px) and (max-width: 767px){
     .header {
         display: block;
     }
-}
+}*/
 
 .picture {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-@media screen (min-width: 320px) and (max-width: 767px){
+/*@media screen (min-width: 320px) and (max-width: 767px){
     .picture {
         display: block;
   }
-}
+}*/
 
 .kompromat {
   width: 1200px;
@@ -222,7 +222,7 @@ h3 {
   align-items: center;
   font-weight: 100;
 }
-@media screen (min-width: 320px) and (max-width: 767px){
+/*@media screen (min-width: 320px) and (max-width: 767px){
     .top-block {
         display: block;
     }
@@ -234,7 +234,8 @@ h3 {
      .center-block {
        display: block;
      }
-  }
+}*/
+
 h5  {
 color: #C6C6C8;
 font-size: 18px;
@@ -246,12 +247,12 @@ margin-top: 0px;
 line-height: 31px;
 }
 
-@media screen (min-width: 320px) and (max-width: 767px){
+/*@media screen (min-width: 320px) and (max-width: 767px){
     h5 {
         font-size: 60px;
          display: block;
     }
-}
+}*/
 
 .footy {
   margin-top: 0px;
@@ -279,11 +280,13 @@ p {
   align-items: center;
   color: #C6C6C8;
 }
-@media screen (min-width: 320px) and (max-width: 767px){
+
+/*@media screen (min-width: 320px) and (max-width: 767px){
     .middle {
         display: block;
   }
-}
+}*/
+
 .quote {
   margin-left: 20px;
   margin-bottom: 200px;
@@ -297,11 +300,11 @@ p {
   align-items: center;
   color: #C6C6C8;
 }
-@media screen (min-width: 320px) and (max-width: 767px){
+/*@media screen (min-width: 320px) and (max-width: 767px){
     .another {
         display: block;
   }
-}
+}*/
 
 .last {
 margin-top: 40px;
@@ -311,11 +314,11 @@ justify-content: center;
 align-items: center;
 color: #C6C6C8;
 }
-@media screen (min-width: 320px) and (max-width: 767px){
+/*@media screen (min-width: 320px) and (max-width: 767px){
     .last {
         display: block;
   }
-}
+}*/
 
 .russia {
   width: 450px;
@@ -340,11 +343,11 @@ border-right: 1px solid white;
 margin-left: 50px;
 margin-top: 0px;
 }
-@media screen (min-width: 600px) and (max-width: 800px){
+/*@media screen (min-width: 600px) and (max-width: 800px){
     .inner {
         display: block;
     }
-}
+}*/
 
 .dangerous {
   margin-top: 40px;
@@ -354,11 +357,11 @@ margin-top: 0px;
   align-items: center;
   color: #C6C6C8;
 }
-@media screen (min-width: 320px) and (max-width: 767px){
+/*@media screen (min-width: 320px) and (max-width: 767px){
     .dangerous {
         display: block;
   }
-}
+}*/
 
 font {
   margin-left: 20px;
@@ -487,7 +490,7 @@ height: 100%;
   border: 1px solid black;
   overflow: auto;
 }
-@media screen (min-width: 320px) and (max-width: 767px){
+/*@media screen (min-width: 320px) and (max-width: 767px){
     .on {
         display: block;
     }
@@ -500,7 +503,8 @@ height: 100%;
     .two {
         display: block;
     }
-}
+}*/
+
 .footer{
   margin-top: 10px;
   font-size: 24px;
