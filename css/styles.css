@@ -531,7 +531,7 @@ height: 100%;
   font-family: 'Saira', sans-serif;
 }
 
-@media only screen (min-width: 320px) and (max-width: 767px){
+/*@media only screen (min-width: 320px) and (max-width: 767px){
 
     .header {
         display: block;
@@ -548,4 +548,4 @@ height: 100%;
     h5 {
       font-size: 80px;
     }
-}
+}*/
