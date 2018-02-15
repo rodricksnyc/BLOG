@@ -6,26 +6,26 @@ background-color: black;
 
  @media screen and (min-width:900px) and (max-width:1200px) {
    header {
-     width: 100%;
-     font-size: 50px;
+     width: 1300px;
+     font-size: 4em;
+   }
+   a {
+     font-size: 4em;
    }
 
    .footy {
      width: 200px;
-     font-size: 24px;
+     font-size: 1.5em;
      margin-bottom: 400px;
    }
-   section {
-     font-size: 85px;
+   .sentence {
+     font-size: 35px;
+     display: block;
    }
   ul {
-    font-size: 200px;
+    font-size: 3em;
     width: 100%;
   }
-    ul {
-        width: 100%;
-    }
-
     .kompromat {
       width: 1000px;
     }
@@ -38,7 +38,7 @@ background-color: black;
       width: 100%;
     }
     h5 {
-      font-size: 30px;
+      font-size: 32px;
     }
     h1 {
       font-size: 30px;
