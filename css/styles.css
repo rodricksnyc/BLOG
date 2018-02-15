@@ -4,13 +4,61 @@ font-family: 'Saira', sans-serif;
 background-color: black;
 }
 
-/*@media only screen (min-width: 320px) and (max-width: 767px){
+ @media screen and (min-width:900px) and (max-width:1200px) {
+   header {
+     width: 100%;
+     font-size: 50px;
+   }
+
+   .footy {
+     width: 200px;
+     font-size: 24px;
+     margin-bottom: 400px;
+   }
+   section {
+     font-size: 85px;
+   }
+  ul {
+    font-size: 200px;
+    width: 100%;
+  }
+    ul {
+        width: 100%;
+    }
+
+    .kompromat {
+      width: 1000px;
+    }
+    h3 {
+      width: 300px;
+      height: 300px;
+      font-size: 30px;
+    }
     .kompromat {
       width: 100%;
-      font-size: 50px;
     }
+    h5 {
+      font-size: 30px;
+    }
+    h1 {
+      font-size: 30px;
+    }
+    h4 {
+      font-size: 30px;
+    }
+    .quote {
+      font-size: 28px;
+    }
+}
+/*.sentence {
+  font-size: 22px;
+}
+.quote {
+  font-size: 22px;
+}
+.russia {
+  font-size: 22px;
 }*/
-
 
 h1 {
   color: #C6C6C8;
@@ -205,9 +253,9 @@ text-align: center;
 
 h3 {
   margin-top: 0px;
-  margin-left: 848px;
+  margin-left: 860px;
   color: #C6C6C8;
-  /*font-size: 20px;*/
+  font-size: 28px;
   padding-top: 200px;
   margin-bottom: 0;
 }
@@ -259,9 +307,9 @@ line-height: 31px;
 
 .footy {
   margin-top: 0px;
-  margin-left: 820px;
+  margin-left: 850px;
   color: #C6C6C8;
-  font-size: 12px;
+  font-size: 16px;
   padding-top: 5px;
   width: 320px;
 }
@@ -530,22 +578,3 @@ height: 100%;
   margin-bottom: 20px;
   font-family: 'Saira', sans-serif;
 }
-
-/*@media only screen (min-width: 320px) and (max-width: 767px){
-
-    .header {
-        display: block;
-        width: 100%;
-    }
-    .footy {
-
-      font-size: 80px;
-    }
-    .kompromat {
-
-      font-size: 80px;
-    }
-    h5 {
-      font-size: 80px;
-    }
-}*/
