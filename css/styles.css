@@ -3,60 +3,6 @@ body {
   /*margin-top: 0px;*/
   background-color: black;
 }
-@media screen (min-width: 320px) and (max-width: 767px) {
-  header {
-    width: 1300px;
-    font-size: 4em;
-  }
-  a {
-    font-size: 4em;
-  }
-  .footy {
-    width: 200px;
-    font-size: 1.5em;
-    margin-bottom: 400px;
-  }
-  .sentence {
-    font-size: 35px;
-    display: block;
-  }
-  ul {
-    font-size: 3em;
-    width: 100%;
-  }
-  .kompromat {
-    width: 1000px;
-  }
-  h3 {
-    width: 300px;
-    height: 300px;
-    font-size: 30px;
-  }
-  .kompromat {
-    width: 100%;
-  }
-  h5 {
-    font-size: 32px;
-  }
-  h1 {
-    font-size: 30px;
-  }
-  h4 {
-    font-size: 30px;
-  }
-  .quote {
-    font-size: 28px;
-  }
-}
-/*.sentence {
-font-size: 22px;
-}
-.quote {
-font-size: 22px;
-}
-.russia {
-font-size: 22px;
-}*/
 
 h1 {
   color: #C6C6C8;
@@ -77,39 +23,11 @@ h2 {
   margin-top: 0px;
   position:
 }
-
 main {
   margin-top: 0px;
   background-color: black;
   margin-bottom: 50px;
 }
-/*#buffer {
-margin-top: 10px;
-margin-bottom: 0px;
-padding: 0;
-}
-@media (max-width: 979px) {
-#buffer {
-padding-top: 10px;
-}
-}
-#buffer {
-margin-top: 40px;
-margin-bottom: 0px;
-padding: 0;
-width: 100%;
-}
-
-@media (max-width: 979px) {
-#buffer {
-padding-top: 50px;
-}
-}*/
-/*@media screen (min-width: 320px) and (max-width: 767px){
-#top {
-display: block;
-}
-}*/
 .hide {
   display: none;
 }
@@ -134,7 +52,6 @@ a {
   border-bottom: solid 1px white;
   margin-top: 5px;
 }
-
 .links {
   display: inline;
   color: #C6C6C8;
@@ -150,7 +67,6 @@ a {
   padding-left: 0px;
   padding-right: 0px;
 }
-
 .top {
   display: flex;
   justify-content: flex-end;
@@ -167,7 +83,6 @@ a {
   padding-left: 0;
   padding-right: 0;
 }
-
 .name {
   font-size: 36px;
   font-weight: 900;
@@ -177,7 +92,6 @@ a {
   margin-left: 140px;
   color: #C6C6C8;
 }
-
 .header {
   display: flex;
   justify-content: space-between;
@@ -190,17 +104,11 @@ a {
   color: #C6C6C8;
   margin-bottom: 100px;
 }
-
 .picture {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-/*@media screen (min-width: 320px) and (max-width: 767px){
-.picture {
-display: block;
-}
-}*/
 
 .kompromat {
   width: 1200px;
@@ -223,11 +131,9 @@ display: block;
   height: 100px;
   width: 134px;
 }
-
 .right {
   margin-left: 730px;
   margin-bottom: 0px;
-
 }
 .left {
   margin-left: 5px;
@@ -242,7 +148,6 @@ h4 {
   margin-bottom: 10px;
   text-align: center;
 }
-
 .scary {
   margin-left: 300px;
 }
@@ -251,11 +156,10 @@ h3 {
   margin-top: 0px;
   margin-left: 860px;
   color: #C6C6C8;
-  font-size: 28px;
+  font-size: 22px;
   padding-top: 200px;
   margin-bottom: 0;
 }
-
 .top-block {
   margin-left: 10px;
   margin-top: 0px;
@@ -269,20 +173,6 @@ h3 {
   align-items: center;
   font-weight: 100;
 }
-/*@media screen (min-width: 320px) and (max-width: 767px){
-.top-block {
-display: block;
-}
-}
-.center-block {
-margin-top: 20px;
-}
-@media screen and (max-width:480px){
-.center-block {
-display: block;
-}
-}*/
-
 h5  {
   color: #C6C6C8;
   font-size: 18px;
@@ -293,19 +183,11 @@ h5  {
   margin-top: 0px;
   line-height: 31px;
 }
-
-/*@media screen (min-width: 320px) and (max-width: 767px){
-h5 {
-font-size: 60px;
-display: block;
-}
-}*/
-
 .footy {
   margin-top: 0px;
   margin-left: 850px;
   color: #C6C6C8;
-  font-size: 16px;
+  font-size: 12px;
   padding-top: 5px;
   width: 320px;
 }
@@ -327,13 +209,6 @@ p {
   align-items: center;
   color: #C6C6C8;
 }
-
-/*@media screen (min-width: 320px) and (max-width: 767px){
-.middle {
-display: block;
-}
-}*/
-
 .quote {
   margin-left: 20px;
   margin-bottom: 200px;
@@ -347,11 +222,6 @@ display: block;
   align-items: center;
   color: #C6C6C8;
 }
-/*@media screen (min-width: 320px) and (max-width: 767px){
-.another {
-display: block;
-}
-}*/
 
 .last {
   margin-top: 40px;
@@ -361,12 +231,6 @@ display: block;
   align-items: center;
   color: #C6C6C8;
 }
-/*@media screen (min-width: 320px) and (max-width: 767px){
-.last {
-display: block;
-}
-}*/
-
 .russia {
   width: 450px;
   margin-left: 20px;
@@ -390,12 +254,6 @@ hr.style4 {
   margin-left: 50px;
   margin-top: 0px;
 }
-/*@media screen (min-width: 600px) and (max-width: 800px){
-.inner {
-display: block;
-}
-}*/
-
 .dangerous {
   margin-top: 40px;
   margin-left: 40px;
@@ -404,16 +262,9 @@ display: block;
   align-items: center;
   color: #C6C6C8;
 }
-/*@media screen (min-width: 320px) and (max-width: 767px){
-.dangerous {
-display: block;
-}
-}*/
-
 font {
   margin-left: 20px;
 }
-
 .nav-text {
   color: #C6C6C8;
   font-size: 12px;
@@ -421,7 +272,6 @@ font {
   margin-bottom: 0px;
   margin-right: 0px;
 }
-
 .fa-2x {
   font-size: 2em;
 }
@@ -439,7 +289,6 @@ font {
   width: 280px;
   overflow:visible;
 }
-
 .main-menu {
   background: black;
   color: #C6C6C8;
@@ -453,9 +302,7 @@ font {
   overflow:hidden;
   transition: width .05s linear;
   z-index:1000;
-
 }
-
 .main-menu>ul {
   font-family: 'Saira', sans-serif;
   color: #C6C6C8;
@@ -504,11 +351,9 @@ font {
   font-family: 'Saira', sans-serif;
   color: #C6C6C8;
 }
-
 .no-touch .scrollable.hover {
   overflow-y:hidden;
 }
-
 .no-touch .scrollable.hover:hover {
   overflow-y:auto;
   overflow:visible;
@@ -537,21 +382,6 @@ nav ul,nav li {
   border: 1px solid black;
   overflow: auto;
 }
-/*@media screen (min-width: 320px) and (max-width: 767px){
-.on {
-display: block;
-}
-}
-.two {
-margin-top: 40px;
-font-family: 'Cutive Mono', monospace;
-}
-@media screen (min-width: 320px) and (max-width: 767px){
-.two {
-display: block;
-}
-}*/
-
 .footer{
   margin-top: 10px;
   font-size: 24px;
@@ -574,3 +404,48 @@ display: block;
   margin-bottom: 20px;
   font-family: 'Saira', sans-serif;
 }
+/*@media screen (min-width: 320px) and (max-width: 767px) {
+  header {
+    width: 1300px;
+    font-size: 4em;
+  }
+  a {
+    font-size: 4em;
+  }
+  .footy {
+    width: 200px;
+    font-size: 1.5em;
+    margin-bottom: 400px;
+  }
+  .sentence {
+    font-size: 35px;
+    display: block;
+  }
+  ul {
+    font-size: 3em;
+    width: 100%;
+  }
+  .kompromat {
+    width: 1000px;
+  }
+  h3 {
+    width: 300px;
+    height: 300px;
+    font-size: 30px;
+  }
+  .kompromat {
+    width: 100%;
+  }
+  h5 {
+    font-size: 32px;
+  }
+  h1 {
+    font-size: 30px;
+  }
+  h4 {
+    font-size: 30px;
+  }
+  .quote {
+    font-size: 28px;
+  }
+}*/
