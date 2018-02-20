@@ -166,8 +166,7 @@ h5  {
   color: #C6C6C8;
   font-size: 20px;
   font-weight: 100;
-  font-family: 'Nanum Myeongjo', serif;
-  line-height: 20px;
+  font-family: 'Lekton', sans-serif;
   margin-left: 5px;
   margin-top: 0px;
   line-height: 31px;
@@ -378,7 +377,7 @@ nav ul,nav li {
 }
 
 .scroll {
-  font-size: 24px;
+  font-size: 22px;
   margin-top: 500px;
   color: white;
   margin-top: 40px;
