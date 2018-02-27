@@ -450,7 +450,7 @@ a {
       flex-direction: column;
     }
     .picture {
-      width: 400px;
+      width: 440px;
       display: flex;
       flex-direction: column;
     }
@@ -602,6 +602,7 @@ a {
   }
   .social {
     margin-right: 40px;
+    margin-left: 14px;
   }
   .style4 {
     width: 1200px;
