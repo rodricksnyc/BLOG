@@ -429,7 +429,7 @@ a {
       width: 600px;
       display: flex;
       flex-direction: column;
-      margin-right: 48px;
+      margin-right: 55px;
     }
     .one {
       font-size: 20px;
@@ -471,6 +471,7 @@ a {
       font-size: 19px;
       display: flex;
       flex-direction: column;
+      margin-left: 0px;
     }
     #latest {
       margin-left: 0px;
@@ -548,9 +549,13 @@ a {
      display: flex;
      flex-direction:column-reverse;
    }
+   .ny{
+     width: 490px;
+
+   }
    .sentence {
      margin-right: 0px;
-     margin-left: 90px;
+     margin-left: 80px;
      width: 370px;
    }
    .last {
@@ -612,6 +617,11 @@ a {
     margin-left: 20px;
   }
   .latestone {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+  }
+  .firstone {
     width: 600px;
     display: flex;
     flex-direction: column;
