@@ -524,6 +524,7 @@ a {
    }
    h2 {
      margin-left: 5px;
+     font-size: 24px;
    }
    .bright {
      font-size: 20px;
@@ -552,7 +553,7 @@ a {
    .sentence {
      margin-right: 0px;
      margin-left: 90px;
-     width: 370px;
+     width: 360px;
    }
    .last {
      width: 320px;
@@ -575,7 +576,7 @@ a {
      margin-bottom: 0px;
    }
    .ny {
-     width: 480px;
+     width: 460px;
    }
    .sick {
      width: 480px;
@@ -588,7 +589,7 @@ a {
      margin-bottom: 0px;
    }
    .sentence2 {
-      width: 380px;
+      width: 370px;
       margin-left: 30px;
    }
    .scrollTop {
