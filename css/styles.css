@@ -493,7 +493,7 @@ a {
    }
    h4 {
      font-size: 24px;
-      width: 350px;
+      width: 340px;
    }
    font {
      /*text-align: left;*/
@@ -577,6 +577,9 @@ a {
    .ny {
      width: 480px;
    }
+   .sick {
+     width: 480px;
+   }
    .another2 {
      margin-left: -50px;
      width: 600px;
@@ -616,9 +619,16 @@ a {
     margin-left: 20px;
   }
   .latestone {
-    width: 600px;
+    width: 350px;
     display: flex;
     flex-direction: column;
+    margin-left: 5px;
+  }
+  .firstone {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
   }
   .scary {
     margin-left: 0px;
@@ -630,6 +640,11 @@ a {
   }
   .archived {
     width: 400px;
+  }
+  .style4 {
+    margin-left: 0px;
+    width: 800px;
+    margin-right: 20px;
   }
 
 }
