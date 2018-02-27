@@ -576,20 +576,20 @@ a {
      margin-bottom: 0px;
    }
    .ny {
-     width: 460px;
+     width: 440px;
    }
    .sick {
-     width: 480px;
+     width: 440px;
    }
    .another2 {
      margin-left: -50px;
-     width: 600px;
+     width: 550px;
      display: flex;
      flex-direction: column-reverse;
      margin-bottom: 0px;
    }
    .sentence2 {
-      width: 370px;
+      width: 360px;
       margin-left: 30px;
    }
    .scrollTop {
