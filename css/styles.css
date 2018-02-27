@@ -556,10 +556,10 @@ a {
    .sentence {
      margin-right: 0px;
      margin-left: 90px;
-     width: 360px;
+     width: 350px;
    }
    .last {
-     width: 320px;
+     width: 310px;
      margin-left: 15px;
      display: flex;
      flex-direction: column;
@@ -567,14 +567,14 @@ a {
    .russia {
      margin-right: 0px;
      margin-left: 30px;
-     width: 380px;
+     width: 360px;
    }
    .dangerous {
      width: 340px;
    }
    .sociopath {
      margin-left: 0px;
-     width: 360px;
+     width: 340px;
      margin-right: 60px;
      margin-bottom: 0px;
    }
@@ -592,7 +592,7 @@ a {
      margin-bottom: 0px;
    }
    .sentence2 {
-      width: 360px;
+      width: 340px;
       margin-left: 25px;
    }
    .scrollTop {
