@@ -543,7 +543,8 @@ a {
    .another {
      margin-top: 0px;
      margin-left: 10px;
-     width: 280px;
+     width: 260px;
+     margin-right: 160px;
      display: flex;
      flex-direction:column-reverse;
    }
