@@ -482,10 +482,10 @@ a {
     }
     .on {
       margin-left: 0px;
-
       display: flex;
       flex-direction: column;
       text-align: left;
+      width: 400px;
     }
    .inner {
      margin-left: 0px;
@@ -501,6 +501,8 @@ a {
      margin-left: 26px;
      font-size: 19px;
      display: list-item;
+     width: 360px;
+
    }
    .main-menu{
      margin-left: 0px;
