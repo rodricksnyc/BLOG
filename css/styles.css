@@ -138,6 +138,15 @@ h4 {
   margin-bottom: 10px;
   text-align: center;
 }
+.four  {
+  color: #C6C6C8;
+  font-size: 40px;
+  font-weight: 100;
+  font-family: 'Cutive Mono', monospace;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  text-align: center;
+}
 .scary {
   margin-left: 300px;
 }
@@ -508,8 +517,14 @@ a {
      text-align: left;
    }
    h4 {
-     font-size: 24px;
-      width: 340px;
+     font-size: 26px;
+      width: 380px;
+   }
+   .four {
+     margin-left: 0px;
+     width: 360px;
+     font-size: 26px;
+     margin-right: 40px;
    }
    font {
      /*text-align: left;*/
@@ -628,7 +643,7 @@ a {
   p {
     margin-left: 60px;
     width: 200px;
-      margin-right: 800px;
+    margin-right: 800px;
   }
   .social {
     margin-right: 40px;
