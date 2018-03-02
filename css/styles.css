@@ -429,7 +429,7 @@ a {
       width: 600px;
       display: flex;
       flex-direction: column;
-      margin-right: 110px;
+      margin-right: 107px;
     }
     .one {
       font-size: 20px;
@@ -464,7 +464,7 @@ a {
       flex-direction: column;
     }
     .picture {
-      width: 440px;
+      width: 420px;
       display: flex;
       flex-direction: column;
     }
