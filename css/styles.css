@@ -458,8 +458,9 @@ a {
     .name {
       width: 600px;
       font-size: 34px;
-      margin-right: 60px;
+      margin-right: 80px;
       display: flex;
+      margin-left: 125px;
       flex-direction: column;
     }
     .picture {
