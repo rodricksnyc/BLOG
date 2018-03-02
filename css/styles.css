@@ -435,6 +435,19 @@ a {
       font-size: 20px;
       border-bottom: 1px solid #C6C6C8;
     }
+    li:nth-child(2) {
+      order: 1;
+    }
+    li:nth-child(1) {
+      order: 2;
+    }
+    li:nth-child(3) {
+      order: 4;
+    }
+    li:nth-child(4) {
+      order: 3;
+    }
+
     .logo {
       width: 600px;
       margin-right: 20px;
@@ -445,7 +458,7 @@ a {
     .name {
       width: 600px;
       font-size: 34px;
-      margin-right: 50px;
+      margin-right: 60px;
       display: flex;
       flex-direction: column;
     }
@@ -460,6 +473,7 @@ a {
       flex-direction: column;
       margin-left: 5px;
     }
+
     h1 {
       width: 350px;
       display: flex;
