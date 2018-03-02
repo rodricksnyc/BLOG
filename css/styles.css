@@ -418,8 +418,8 @@ a {
 }
 @media only screen and (max-width: 600px) {
    body {
-     overflow: hidden;
-     width: 600px;
+     overflow-x: hidden;
+     max-width: 600px;
    }
     .header {
         width: 600px;
