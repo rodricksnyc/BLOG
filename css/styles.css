@@ -597,7 +597,8 @@ a {
      width: 440px;
    }
    .sick {
-     width: 440px;
+     width: 400px;
+     margin-right: 20px;
    }
    .another2 {
      margin-left: -50px;
@@ -608,7 +609,7 @@ a {
    }
    .sentence2 {
       width: 340px;
-      margin-left: 25px;
+      margin-left: 20px;
    }
    .scrollTop {
      margin-top: 0px;
