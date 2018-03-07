@@ -569,8 +569,8 @@ a {
      margin-bottom: 0px;
    }
    .quote {
-      width: 340px;
-      margin-left: 0px;
+      width: 330px;
+      margin-left: 10px;
       text-align: left;
       margin-right: 250px;
       margin-bottom: 20px;
@@ -586,7 +586,7 @@ a {
    .sentence {
      margin-right: 0px;
      margin-left: 66px;
-     width: 340px;
+     width: 330px;
    }
    .last {
      width: 310px;
@@ -595,9 +595,9 @@ a {
      flex-direction: column;
    }
    .russia {
-     margin-right: 20px;
-     margin-left: 10px;
-     width: 340px;
+     margin-right: 10px;
+     margin-left: 15px;
+     width: 330px;
    }
    .dangerous {
      width: 340px;
@@ -623,7 +623,7 @@ a {
      margin-bottom: 0px;
    }
    .sentence2 {
-      width: 340px;
+      width: 330px;
       margin-left: 10px;
    }
    .scrollTop {
