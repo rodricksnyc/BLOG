@@ -572,7 +572,7 @@ a {
       width: 340px;
       margin-left: 0px;
       text-align: left;
-      margin-right: 220px;
+      margin-right: 250px;
       margin-bottom: 20px;
    }
    .another {
@@ -585,7 +585,7 @@ a {
    }
    .sentence {
      margin-right: 0px;
-     margin-left: 80px;
+     margin-left: 66px;
      width: 340px;
    }
    .last {
@@ -595,8 +595,8 @@ a {
      flex-direction: column;
    }
    .russia {
-     margin-right: 0px;
-     margin-left: 20px;
+     margin-right: 20px;
+     margin-left: 10px;
      width: 340px;
    }
    .dangerous {
@@ -605,7 +605,7 @@ a {
    .sociopath {
      margin-left: 0px;
      width: 340px;
-     margin-right: 60px;
+     margin-right: 75px;
      margin-bottom: 0px;
    }
    .ny {
@@ -624,7 +624,7 @@ a {
    }
    .sentence2 {
       width: 340px;
-      margin-left: 20px;
+      margin-left: 10px;
    }
    .scrollTop {
      margin-top: 0px;
