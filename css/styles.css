@@ -656,6 +656,7 @@ a {
    .sentence2 {
       width: 330px;
       margin-right: 80px;
+      margin-left: 0px;
    }
    .scrollTop {
      margin-top: 0px;
