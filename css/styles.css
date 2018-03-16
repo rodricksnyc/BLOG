@@ -321,7 +321,7 @@ font {
   transition: width .8s linear;
   z-index: 1;
   color: #BF1010;
-  margin-top: 12px;
+  margin-top: 14px;
 }
 .main-menu>ul {
   font-family: 'Saira', sans-serif;
