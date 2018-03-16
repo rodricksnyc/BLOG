@@ -27,6 +27,9 @@ main {
   background-color: black;
   margin-bottom: 50px;
 }
+.noBullet {
+  list-style-type: none;
+}
 .hide {
   display: none;
 }
@@ -35,11 +38,15 @@ main {
   font-weight: 100;
   margin-left: 0;
   margin-right: 0;
-  font-size: 18px;
   padding-left: 0px;
   padding-right: 0px;
   margin-top: 5px;
+  font-size: 16px;
 }
+a {
+  padding-right: -10px;
+}
+
 .links {
   color: #C6C6C8;
   height: 40px;
@@ -67,7 +74,6 @@ li {
   margin-right: 0px;
   color: #C6C6C8;
   width: 100%;
-  font-size: 18px;
   font-weight: 100;
   font-family: 'Saira', sans-serif;
   padding-left: 0;
@@ -447,14 +453,20 @@ a {
     li:nth-child(2) {
       order: 1;
     }
-    li:nth-child(1) {
+    li:nth-child(3) {
       order: 2;
     }
-    li:nth-child(3) {
+    li:nth-child(1) {
+      order: 3;
+    }
+    li:nth-child(5) {
       order: 4;
     }
     li:nth-child(4) {
-      order: 3;
+      order: 5;
+    }
+    li:nth-child(6) {
+      order: 6;
     }
 
     .logo {
@@ -685,6 +697,9 @@ a {
     overflow-x: hidden;
     overflow-y: scroll !important;
     max-width: 600px;
+  }
+  .noBullet {
+    font-size: 24px;
   }
 
 }
