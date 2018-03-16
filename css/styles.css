@@ -283,7 +283,6 @@ font {
   margin-left: 30px;
 }
 .nav-text {
-  color: #C6C6C8;
   font-size: 12px;
   font-weight: 100;
   margin-bottom: 0px;
@@ -293,47 +292,56 @@ font {
   font-size: 2em;
 }
 .fa {
-  position: relative;
+  position:relative;
+  z-index: 1;
   display: table-cell;
   width: 60px;
   height: 18px;
   text-align:left;
-  vertical-align:text-top;
+  vertical-align:text-bottom;
   margin-right: 20px;
-  font-size: 12px;
+  font-size: 20px;
 }
 
 .main-menu:hover, nav.main-menu.expanded {
-  width: 160px;
+  width: 300px;
   overflow: hidden;
 }
 .main-menu {
-  background: black;
+  background-color: none;
   color: #C6C6C8;
   position:absolute;
+  z-index: 1;
   top: 0;
   bottom:0;
-  height: 700px;
-  left:-0;
+  height: 2000px;
+  margin-left: 0px;
   width: 50px;
   overflow:hidden;
   transition: width .8s linear;
-  z-index:1000;
+  z-index: 1;
+  color: #BF1010;
+  margin-top: 12px;
 }
 .main-menu>ul {
   font-family: 'Saira', sans-serif;
-  color: #C6C6C8;
+  color: #BF1010;
+  position:relative;
+  z-index: 1;
 }
 
 .main-menu li {
   position:relative;
+  z-index: 1;
   font-family: 'Saira', sans-serif;
   display:block;
   width: 300px;
+  color: #BF1010;
 }
 
 .main-menu li>a {
   position:relative;
+  z-index: 1;
   display:table;
   border-collapse:collapse;
   border-spacing:0;
@@ -342,6 +350,7 @@ font {
   font-size: 20px;
   text-decoration:none;
   transition:all .1s linear;
+  color: #BF1010;
 }
 .bright {
   color: #BF1010;
@@ -351,39 +360,50 @@ font {
 
 .main-menu .nav-icon {
   position:relative;
+  z-index: 1;
   display:table-cell;
   width: 60px;
   height: 36px;
-  text-align:center;
-  vertical-align:middle;
-  font-size: 18px;
-  color: #C6C6C8;
+  text-align:left;
+  vertical-align:text-top;
+  color: #BF1010;
 }
 
 .main-menu .nav-text {
-  position:relative;
+  position:absolute;
+  z-index: 1;
   display:table-cell;
   vertical-align:middle;
-  width: 250px;
+  width: 285px;
   font-family: 'Saira', sans-serif;
-  color: #C6C6C8;
+  color: #BF1010;
+  font-size: 12px;
+  z-index: auto;
+  position: relative;
 }
+
 .no-touch .scrollable.hover {
   overflow-y:hidden;
+
 }
 .no-touch .scrollable.hover:hover {
   overflow-y:auto;
   overflow:visible;
+
 }
 
 /*a:hover,a:focus {
   text-decoration:none;
 }*/
 
+
 nav ul,nav li {
   outline:0;
-  margin:0;
-  padding:0;
+  margin-right: 0;
+  padding-left:0;
+  padding-right: 0;
+  position:relative;
+  z-index: 1;
 }
 
 .area {
@@ -400,7 +420,7 @@ nav ul,nav li {
   border: 1px solid black;
   overflow: auto;
 }
-.footer{
+.footer {
   margin-top: 10px;
   font-size: 24px;
   margin-left: 580px;
@@ -701,5 +721,6 @@ a {
   .noBullet {
     font-size: 24px;
   }
+
 
 }
