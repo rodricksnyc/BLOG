@@ -317,7 +317,7 @@ font {
   left:-0;
   width: 50px;
   overflow:hidden;
-  transition: width .6s linear;
+  transition: width .8s linear;
   z-index:1000;
 }
 .main-menu>ul {
