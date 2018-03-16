@@ -305,7 +305,6 @@ font {
 
 .main-menu:hover, nav.main-menu.expanded {
   width: 300px;
-  overflow: hidden;
 }
 .main-menu {
   background-color: none;
@@ -314,14 +313,14 @@ font {
   z-index: 1;
   top: 0;
   bottom:0;
-  height: 2000px;
   margin-left: 0px;
   width: 50px;
   overflow:hidden;
-  transition: width .8s linear;
+  transition: width .5s linear;
   z-index: 1;
   color: #BF1010;
   margin-top: 14px;
+  height: 1600px;
 }
 .main-menu>ul {
   font-family: 'Saira', sans-serif;
@@ -349,7 +348,7 @@ font {
   font-family: 'Saira', sans-serif;
   font-size: 20px;
   text-decoration:none;
-  transition:all .1s linear;
+  transition:all .7s linear;
   color: #BF1010;
 }
 .bright {
@@ -377,7 +376,7 @@ font {
   width: 285px;
   font-family: 'Saira', sans-serif;
   color: #BF1010;
-  font-size: 12px;
+  font-size: .638em;
   z-index: auto;
   position: relative;
 }
@@ -679,7 +678,7 @@ a {
   }
   .social {
     margin-right: 40px;
-    margin-left: 14px;
+    margin-left: 5px;
   }
   .style4 {
     width: 1200px;
