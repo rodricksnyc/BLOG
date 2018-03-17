@@ -784,7 +784,7 @@ a {
    }
    .name {
      width: 1200px;
-     font-size: 34px;
+     font-size: 38px;
      margin-right: 40px;
      display: flex;
      margin-left: 160px;
@@ -808,14 +808,14 @@ a {
      display: flex;
      font-size: 26px;
      flex-direction: column;
-     margin-left: 0px;
+     margin-left: 10px;
    }
    h5 {
      width: 700px;
      font-size: 20px;
      display: flex;
      flex-direction: column;
-     margin-left: 0px;
+     margin-left: 10px;
    }
    #latest {
      margin-left: 0px;
@@ -882,14 +882,14 @@ a {
     font-size: 20px;
   }
   .middle {
-    width: 700px;
+    width: 600px;
     display: flex;
     flex-direction: column;
     margin-bottom: 0px;
   }
   .quote {
      width: 700px;
-     margin-left: 10px;
+     margin-left: 80px;
      text-align: left;
      margin-right: 40px;
      margin-bottom: 20px;
@@ -944,7 +944,7 @@ a {
   .sentence2 {
      width: 700px;
      margin-right: 20px;
-     margin-left: 0px;
+     margin-left: 60px;
   }
   .scrollTop {
     margin-top: 0px;
