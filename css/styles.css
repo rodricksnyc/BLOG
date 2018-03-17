@@ -716,6 +716,9 @@ a {
   .archived {
     margin-left: 20px;
   }
+  .old {
+    margin-left: 20px;
+  }
   .style4 {
     margin-left: 0px;
     width: 100%;
@@ -1008,7 +1011,9 @@ a {
   }
   .archived {
    margin-left: 60px;
-
+  }
+  .old {
+    margin-left: 60px;
   }
   .style4 {
    margin-left: 0px;
