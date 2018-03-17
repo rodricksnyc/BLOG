@@ -741,11 +741,20 @@ a {
      width: 1000px;
      display: flex;
      flex-direction: column;
-     margin-right: 0px;
+     margin-left: 300px;
    }
    .one {
      font-size: 20px;
      border-bottom: 1px solid #C6C6C8;
+   }
+   .kompromat {
+     width: 1150px;
+   }
+   .footy {
+     margin-left: 1000px;
+   }
+   h3 {
+     margin-left: 738px;
    }
    li:nth-child(2) {
      order: 1;
@@ -768,17 +777,17 @@ a {
 
    .logo {
      width: 900px;
-     margin-right: 20px;
+     margin-right: 80px;
      display: flex;
      flex-direction: column;
      margin-left: 100px;
    }
    .name {
-     width: 900px;
+     width: 1200px;
      font-size: 34px;
-     margin-right: 80px;
+     margin-right: 40px;
      display: flex;
-     margin-left: 130px;
+     margin-left: 160px;
      flex-direction: column;
    }
    .picture {
