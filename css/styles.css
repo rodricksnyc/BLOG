@@ -829,7 +829,8 @@ a {
      display: flex;
      flex-direction: column;
      text-align: left;
-     width: 700px;
+     width: 800px;
+     height: 300px;
    }
   .inner {
     margin-left: 0px;
@@ -851,7 +852,7 @@ a {
     margin-left: 26px;
     font-size: 19px;
     display: list-item;
-    width: 700px;
+    width: 660px;
 
   }
   .main-menu {
