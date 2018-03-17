@@ -11,7 +11,7 @@ $( document ).ready(function() {
     $("#show-on-click1").slideDown(3000);
     $(".readless").show();
   }
-  
+
   function readLess(event) {
     event.preventDefault();
     $(".readless").hide();
@@ -26,6 +26,10 @@ $( document ).ready(function() {
       scrollTop: 0
     }, scrollSpeed);
 
+  });
+
+  $('.view').click(function() {
+    $('.old').show();
   });
 
 

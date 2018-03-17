@@ -407,6 +407,10 @@ nav ul,nav li {
 .archived {
   margin-left: 160px;
 }
+.old {
+  margin-left: 160px;
+  display: none;
+}
 .area {
   float: left;
   background: #6C030B;
