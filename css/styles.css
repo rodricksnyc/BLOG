@@ -714,7 +714,7 @@ a {
     width: 500px;
   }
   .archived {
-    width: 400px;
+    margin-left: 20px;
   }
   .style4 {
     margin-left: 0px;
@@ -1007,7 +1007,8 @@ a {
    width: 800px;
   }
   .archived {
-   width: 700px;
+   margin-left: 60px;
+
   }
   .style4 {
    margin-left: 0px;
