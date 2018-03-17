@@ -733,15 +733,15 @@ a {
     max-width: 600px;
   }
    .header {
-       width: 600px;
+       width: 900px;
        display: flex;
        flex-direction: column;
    }
    .top {
-     width: 600px;
+     width: 900px;
      display: flex;
      flex-direction: column;
-     margin-right: 107px;
+     margin-right: 20px;
    }
    .one {
      font-size: 20px;
@@ -767,14 +767,14 @@ a {
    }
 
    .logo {
-     width: 600px;
+     width: 900px;
      margin-right: 20px;
      display: flex;
      flex-direction: column;
      margin-left: 100px;
    }
    .name {
-     width: 600px;
+     width: 900px;
      font-size: 34px;
      margin-right: 80px;
      display: flex;
@@ -782,12 +782,12 @@ a {
      flex-direction: column;
    }
    .picture {
-     width: 420px;
+     width: 800px;
      display: flex;
      flex-direction: column;
    }
    .top-block {
-     width: 330px;
+     width: 800px;
      display: flex;
      flex-direction: column;
      margin-left: 5px;
@@ -795,14 +795,14 @@ a {
    }
 
    h1 {
-     width: 350px;
+     width: 800px;
      display: flex;
      font-size: 26px;
      flex-direction: column;
      margin-left: 0px;
    }
    h5 {
-     width: 335px;
+     width: 800px;
      font-size: 20px;
      display: flex;
      flex-direction: column;
@@ -810,7 +810,7 @@ a {
    }
    #latest {
      margin-left: 0px;
-     width: 600px;
+     width: 800px;
      display: flex;
      flex-direction: column;
    }
@@ -819,32 +819,32 @@ a {
      display: flex;
      flex-direction: column;
      text-align: left;
-     width: 400px;
+     width: 800px;
    }
   .inner {
     margin-left: 0px;
-    width: 400px;
+    width: 800px;
     text-align: left;
   }
   h4 {
     font-size: 26px;
-     width: 340px;
+     width: 800px;
   }
   .four {
     margin-left: 0px;
-    width: 340px;
+    width: 800px;
     font-size: 26px;
-    margin-right: 60px;
+    margin-right: 20px;
   }
   font {
     /*text-align: left;*/
     margin-left: 26px;
     font-size: 19px;
     display: list-item;
-    width: 320px;
+    width: 800px;
 
   }
-  .main-menu{
+  .main-menu {
     margin-left: 0px;
     width: 50px;
     margin-right: 40px;
@@ -854,15 +854,15 @@ a {
     height: 820px;
   }
   .center-block {
-    width: 350px;
+    width: 800px;
     display: flex;
     flex-direction: column;
   }
   .left {
-    width: 350px;
+    width: 800px;
   }
   .right {
-    width: 350px;
+    width: 800px;
     margin-left: 5px;
   }
   h2 {
@@ -873,33 +873,33 @@ a {
     font-size: 20px;
   }
   .middle {
-    width: 500px;
+    width: 800px;
     display: flex;
     flex-direction: column;
     margin-bottom: 0px;
   }
   .quote {
-     width: 330px;
+     width: 800px;
      margin-left: 10px;
      text-align: left;
-     margin-right: 250px;
+     margin-right: 40px;
      margin-bottom: 20px;
   }
   .another {
     margin-top: 0px;
     margin-left: 10px;
-    width: 260px;
-    margin-right: 160px;
+    width: 800px;
+    margin-right: 20px;
     display: flex;
     flex-direction:column-reverse;
   }
   .sentence {
     margin-right: 0px;
-    margin-left: 66px;
-    width: 330px;
+    margin-left: 20px;
+    width: 800px;
   }
   .last {
-    width: 310px;
+    width: 800px;
     margin-left: 15px;
     display: flex;
     flex-direction: column;
@@ -907,34 +907,34 @@ a {
   .russia {
     margin-right: 10px;
     margin-left: 15px;
-    width: 330px;
+    width: 800px;
   }
   .dangerous {
-    width: 340px;
+    width: 800px;
   }
   .sociopath {
     margin-left: 0px;
-    width: 340px;
-    margin-right: 75px;
+    width: 800px;
+    margin-right: 20px;
     margin-bottom: 0px;
   }
   .ny {
-    width: 440px;
+    width: 800px;
   }
   .sick {
-    width: 400px;
+    width: 800px;
     margin-right: 20px;
   }
   .another2 {
     margin-left: -50px;
-    width: 550px;
+    width: 800px;
     display: flex;
     flex-direction: column-reverse;
     margin-bottom: 0px;
   }
   .sentence2 {
-     width: 330px;
-     margin-right: 100px;
+     width: 800px;
+     margin-right: 20px;
      margin-left: 0px;
   }
   .scrollTop {
@@ -964,13 +964,13 @@ a {
   width: 100%;
   }
   .latestone {
-   width: 350px;
+   width: 800px;
    display: flex;
    flex-direction: column;
    margin-left: 5px;
   }
   .firstone {
-   width: 300px;
+   width: 800px;
    display: flex;
    flex-direction: column;
    margin-left: 0px;
@@ -978,15 +978,15 @@ a {
   }
   .scary {
    margin-left: 0px;
-   width: 500px;
+   width: 800px;
    margin-top: 0px;
   }
   .women {
    margin-left: 0px;
-   width: 500px;
+   width: 800px;
   }
   .archived {
-   width: 400px;
+   width: 800px;
   }
   .style4 {
    margin-left: 0px;
@@ -996,7 +996,7 @@ a {
   .site-wrapper {
    overflow-x: hidden;
    overflow-y: scroll !important;
-   max-width: 600px;
+   max-width: 900px;
   }
   .noBullet {
    font-size: 24px;
@@ -1004,11 +1004,5 @@ a {
   h5 {
    margin-bottom: 0px;
   }
-
-
-
-
-
-
 
 }
