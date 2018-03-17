@@ -730,15 +730,15 @@ a {
 @media only screen and (max-width: 1000px) {
 
   body {
-    max-width: 600px;
+    max-width: 1000px;
   }
    .header {
-       width: 900px;
+       width: 1000px;
        display: flex;
        flex-direction: column;
    }
    .top {
-     width: 900px;
+     width: 1000px;
      display: flex;
      flex-direction: column;
      margin-right: 20px;
