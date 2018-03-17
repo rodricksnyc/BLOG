@@ -752,11 +752,11 @@ a {
    }
    .footy {
      margin-left: 600px;
-     width: 280px;
+     width: 260px;
    }
    h3 {
-     margin-left: 610px;
-     width: 300px;
+     margin-left: 614px;
+     width: 28px;
    }
    li:nth-child(2) {
      order: 1;
@@ -786,10 +786,9 @@ a {
    }
    .name {
      width: 1200px;
-     font-size: 38px;
-
+     font-size: 40px;
      display: flex;
-     margin-left: 340px;
+     margin-left: 480px;
      flex-direction: column;
    }
    .picture {
