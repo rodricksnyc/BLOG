@@ -1010,7 +1010,7 @@ a {
   .site-wrapper {
    overflow-x: hidden;
    overflow-y: scroll !important;
-   max-width: 800px;
+   max-width: 770px;
   }
   .noBullet {
    font-size: 24px;
