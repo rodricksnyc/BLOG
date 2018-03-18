@@ -983,8 +983,8 @@ a {
     width: 300px;
     display: flex;
     flex-direction: column;
-    margin-left: -10px;
-    margin-right: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
   }
   .scary {
     margin-left: 0px;
@@ -1545,7 +1545,7 @@ width: 100%;
  width: 720px;
  display: flex;
  flex-direction: column;
- margin-left: 40px;
+ margin-left: 0px;
  margin-right: 60px;
 }
 .scary {
