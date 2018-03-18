@@ -1573,7 +1573,7 @@ width: 100%;
 }
 .site-wrapper {
  overflow-x: hidden;
- overflow-y: scroll !important;
+ /* overflow-y: scroll !important; */
  max-width: 1024px;
 }
 .noBullet {
@@ -1583,12 +1583,14 @@ h5 {
  margin-bottom: 0px;
 }
 h3 {
-  margin-right: 220px;
+  margin-right: 260px;
   width: 300px;
+  opacity: .50;
 }
 .footy {
   width: 280px;
-  margin-right: 228px;
+  margin-right: 262px;
+  opacity: .70;
 }
 }
 
