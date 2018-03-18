@@ -1086,18 +1086,18 @@ body {
  }
 
  h1 {
-   width: 350px;
+   width: 360px;
    display: flex;
    font-size: 26px;
    flex-direction: column;
-   margin-left: 0px;
+   margin-left: -10px;
  }
  h5 {
-   width: 350px;
+   width: 360px;
    font-size: 20px;
    display: flex;
    flex-direction: column;
-   margin-left: 0px;
+   margin-left: -10px;
  }
  #latest {
    margin-left: 0px;
@@ -1598,13 +1598,13 @@ h5 {
 
 }
 
-@media only screen and (max-width: 1200px) and (min-width: 800px) {
+/* @media only screen and (max-width: 1200px) and (min-width: 800px) {
 
   body {
-    max-width: 1100px;
+    max-width: 1400px;
   }
    .header {
-       width: 1000px;
+       width: 1200px;
        display: flex;
        flex-direction: column;
    }
@@ -1885,7 +1885,7 @@ h5 {
   .site-wrapper {
    overflow-x: hidden;
    overflow-y: scroll !important;
-   max-width: 770px;
+   max-width: 1200px;
   }
   .noBullet {
    font-size: 24px;
@@ -1894,4 +1894,4 @@ h5 {
    margin-bottom: 0px;
   }
 
-}
+} */
