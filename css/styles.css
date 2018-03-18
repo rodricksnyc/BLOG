@@ -1433,10 +1433,11 @@ font {
   flex-direction: column;
 }
 .left {
-  width: 350px;
+  width: 600px;
+  margin-left: 5px;
 }
 .right {
-  width: 350px;
+  width: 600px;
   margin-left: 5px;
 }
 h2 {
@@ -1458,6 +1459,7 @@ h2 {
    text-align: left;
    margin-right: 120px;
    margin-bottom: 20px;
+   font-size: 20px;
 }
 .another {
   margin-top: 0px;
@@ -1471,17 +1473,21 @@ h2 {
   margin-right: 0px;
   margin-left: 500px;
   width: 700px;
+  font-size: 20px;
 }
 .last {
   width: 620px;
   margin-left: 40px;
   display: flex;
   flex-direction: column;
+  font-size: 20px;
+
 }
 .russia {
   margin-right: 10px;
   margin-left: 15px;
   width: 600px;
+  font-size: 20px;
 }
 .dangerous {
   width: 380px;
@@ -1491,6 +1497,8 @@ h2 {
   width: 640px;
   margin-right: 0px;
   margin-bottom: 0px;
+  font-size: 20px;
+
 }
 .ny {
   width: 600px;
@@ -1511,6 +1519,8 @@ h2 {
    width: 680px;
    margin-right: 0px;
    margin-left: 300px;
+   font-size: 20px;
+
 }
 .scrollTop {
   margin-top: 0px;
