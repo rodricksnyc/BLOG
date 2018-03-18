@@ -1021,7 +1021,7 @@ a {
 }
 @media only screen and (max-width: 736px) and (min-width: 414px) {
 body {
-  max-width: 700px;
+  max-width: 736px;
 }
  .header {
      width: 700px;
@@ -1032,7 +1032,7 @@ body {
    width: 700px;
    display: flex;
    flex-direction: column;
-   margin-right: 100px;
+   margin-right: 160px;
  }
  .one {
    font-size: 20px;
@@ -1069,7 +1069,7 @@ body {
    font-size: 34px;
    margin-right: 0px;
    display: flex;
-   margin-left: 240px;
+   margin-left: 200px;
    flex-direction: column;
  }
  .picture {
@@ -1086,14 +1086,14 @@ body {
  }
 
  h1 {
-   width: 380px;
+   width: 350px;
    display: flex;
    font-size: 26px;
    flex-direction: column;
    margin-left: 0px;
  }
  h5 {
-   width: 380px;
+   width: 350px;
    font-size: 20px;
    display: flex;
    flex-direction: column;
@@ -1132,7 +1132,7 @@ font {
   margin-left: 26px;
   font-size: 19px;
   display: list-item;
-  width: 360px;
+  width: 350px;
 
 }
 .main-menu{
@@ -1170,7 +1170,7 @@ h2 {
   margin-bottom: 0px;
 }
 .quote {
-   width: 380px;
+   width: 350px;
    margin-left: 60px;
    text-align: left;
    margin-right: 250px;
@@ -1301,8 +1301,304 @@ h5 {
 }
 
 
+@media only screen and (max-width: 1024px) and (min-width: 667px) {
 
-@media only screen and (max-width: 900px) and (min-width: 667px) {
+   .header {
+       width: 1024px;
+       display: flex;
+       flex-direction: column;
+   }
+   .top {
+     width: 1024px;
+     display: flex;
+     flex-direction: column;
+     margin-right: 30px;
+   }
+   .one {
+     font-size: 20px;
+     border-bottom: 1px solid #C6C6C8;
+   }
+   .kompromat {
+     width: 1300px;
+   }
+   .footy {
+     margin-left: 600px;
+     width: 260px;
+     display: none;
+   }
+   h3 {
+     margin-left: 614px;
+     width: 280px;
+     display: none;
+   }
+   li:nth-child(2) {
+     order: 1;
+   }
+   li:nth-child(3) {
+     order: 2;
+   }
+   li:nth-child(1) {
+     order: 3;
+   }
+   li:nth-child(5) {
+     order: 4;
+   }
+   li:nth-child(4) {
+     order: 5;
+   }
+   li:nth-child(6) {
+     order: 6;
+   }
+
+   .logo {
+     width: 900px;
+     margin-right: 180px;
+     display: flex;
+     flex-direction: column;
+     margin-left: 0px;
+   }
+   .name {
+     width: 1200px;
+     font-size: 40px;
+     display: flex;
+     margin-left: 430px;
+     flex-direction: column;
+   }
+   .picture {
+     width: 700px;
+     display: flex;
+     flex-direction: column;
+   }
+   .top-block {
+     width: 600px;
+     display: flex;
+     flex-direction: column;
+     margin-left: 50px;
+     margin-right: 0px;
+   }
+
+   h1 {
+     width: 600px;
+     display: flex;
+     font-size: 26px;
+     flex-direction: column;
+     margin-left: 10px;
+   }
+   h5 {
+     width: 600px;
+     font-size: 20px;
+     display: flex;
+     flex-direction: column;
+     margin-left: 10px;
+   }
+   #latest {
+     margin-left: 0px;
+     width: 800px;
+     display: flex;
+     flex-direction: column;
+   }
+   .on {
+     margin-left: 0px;
+     display: flex;
+     flex-direction: column;
+     text-align: left;
+     width: 800px;
+
+   }
+  .inner {
+    margin-left: 0px;
+    width: 720px;
+    text-align: left;
+  }
+  h4 {
+    font-size: 30px;
+     width: 560px;
+  }
+  .four {
+    margin-left: 0px;
+    width: 700px;
+    font-size: 26px;
+    margin-right: 20px;
+  }
+  font {
+    /*text-align: left;*/
+    margin-left: 26px;
+    font-size: 19px;
+    display: list-item;
+    width: 660px;
+
+  }
+  .main-menu {
+    margin-left: 0px;
+    width: 50px;
+    margin-right: 40px;
+  }
+  .main-menu:hover {
+    width: 200px;
+    height: 820px;
+  }
+  .center-block {
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+  }
+  .left {
+    width: 700px;
+  }
+  .right {
+    width: 700px;
+    margin-left: 5px;
+  }
+  h2 {
+    margin-left: 5px;
+    font-size: 24px;
+  }
+  .bright {
+    font-size: 20px;
+  }
+  .middle {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0px;
+  }
+  .quote {
+     width: 540px;
+     margin-left: 0px;
+     text-align: left;
+     margin-right: 80px;
+     margin-bottom: 20px;
+     font-size: 18px;
+  }
+  .another {
+    margin-top: 0px;
+    margin-left: 10px;
+    width: 600px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction:column-reverse;
+  }
+  .sentence {
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 560px;
+    font-size: 18px;
+  }
+  .last {
+    width: 560px;
+    margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+  }
+  .russia {
+    margin-right: 10px;
+    margin-left: 30px;
+    width: 600px;
+    font-size: 18px;
+  }
+  .dangerous {
+    width: 700px;
+  }
+  .sociopath {
+    margin-left: 0px;
+    width: 570px;
+    margin-right: 150px;
+    margin-bottom: 0px;
+    font-size: 18px;
+  }
+  .ny {
+    width: 700px;
+  }
+  .sick {
+    width: 700px;
+    margin-right: 20px;
+  }
+  .another2 {
+    margin-left: -50px;
+    width: 700px;
+    display: flex;
+    flex-direction: column-reverse;
+    margin-bottom: 0px;
+  }
+  .sentence2 {
+     width: 560px;
+     margin-right: 0px;
+     margin-left: 20px;
+     font-size: 18px;
+  }
+  .scrollTop {
+    margin-top: 0px;
+    margin-bottom: 100px;
+  }
+  footer {
+   margin-left: 60px;
+   width: 200px;
+   margin-right: 800px;
+  }
+  .footer {
+   margin-left: 60px;
+   width: 200px;
+   margin-right: 800px;
+  }
+  p {
+   margin-left: 180px;
+
+  }
+  .social {
+   margin-right: 40px;
+   margin-left: 15px;
+  }
+  .style4 {
+  width: 100%;
+  }
+  .latestone {
+   width: 700px;
+   display: flex;
+   flex-direction: column;
+   margin-left: 5px;
+  }
+  .firstone {
+   width: 700px;
+   display: flex;
+   flex-direction: column;
+   margin-left: 0px;
+   margin-right: 15px;
+  }
+  .scary {
+   margin-left: 0px;
+   width: 700px;
+   margin-top: 0px;
+  }
+  .women {
+   margin-left: 0px;
+   width: 800px;
+  }
+  .archived {
+   margin-left: 60px;
+  }
+  .old {
+    margin-left: 60px;
+  }
+  .style4 {
+   margin-left: 0px;
+   width: 100%;
+   margin-right: 20px;
+  }
+  .site-wrapper {
+   overflow-x: hidden;
+   overflow-y: scroll !important;
+   width: 1024px;
+  }
+  .noBullet {
+   font-size: 24px;
+  }
+  h5 {
+   margin-bottom: 0px;
+  }
+
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 800px) {
 
   body {
     max-width: 1100px;
