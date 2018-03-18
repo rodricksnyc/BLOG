@@ -609,11 +609,12 @@ a {
     margin-bottom: 0px;
   }
   .quote {
-     width: 260px;
+     width: 300px;
      margin-left: 0px;
      text-align: left;
-     margin-right: 250px;
+     margin-right: 260px;
      margin-bottom: 20px;
+     font-size: 19px;
   }
   .another {
     margin-top: 0px;
@@ -622,22 +623,26 @@ a {
     margin-right: 160px;
     display: flex;
     flex-direction:column-reverse;
+    font-size: 19px;
   }
   .sentence {
     margin-right: 0px;
     margin-left: 10px;
     width: 280px;
+    font-size: 19px;
   }
   .last {
     width: 280px;
     margin-left: 15px;
     display: flex;
     flex-direction: column;
+    font-size: 19px;
   }
   .russia {
     margin-right: 0px;
     margin-left: 0px;
     width: 290px;
+    font-size: 19px;
   }
   .dangerous {
     width: 300px;
@@ -647,6 +652,7 @@ a {
     width: 290px;
     margin-right: 80px;
     margin-bottom: 0px;
+    font-size: 19px;
   }
   .ny {
     width: 320px;
@@ -661,11 +667,13 @@ a {
     display: flex;
     flex-direction: column-reverse;
     margin-bottom: 0px;
+    font-size: 19px;
   }
   .sentence2 {
      width: 280px;
      margin-right: 140px;
      margin-left: 0px;
+     font-size: 19px;
   }
   .scrollTop {
     margin-top: 0px;
@@ -895,6 +903,7 @@ a {
       text-align: left;
       margin-right: 250px;
       margin-bottom: 20px;
+      font-size: 19px;
    }
    .another {
      margin-top: 0px;
@@ -908,17 +917,20 @@ a {
      margin-right: 0px;
      margin-left: 66px;
      width: 330px;
+     font-size: 19px;
    }
    .last {
      width: 310px;
      margin-left: 15px;
      display: flex;
      flex-direction: column;
+     font-size: 19px;
    }
    .russia {
      margin-right: 10px;
      margin-left: 15px;
      width: 330px;
+     font-size: 19px;
    }
    .dangerous {
      width: 340px;
@@ -928,6 +940,7 @@ a {
      width: 340px;
      margin-right: 75px;
      margin-bottom: 0px;
+     font-size: 19px;
    }
    .ny {
      width: 440px;
@@ -947,6 +960,7 @@ a {
       width: 330px;
       margin-right: 100px;
       margin-left: 0px;
+      font-size: 19px;
    }
    .scrollTop {
      margin-top: 0px;
@@ -1171,11 +1185,12 @@ h2 {
   margin-bottom: 0px;
 }
 .quote {
-   width: 350px;
+   width: 360px;
    margin-left: 60px;
    text-align: left;
    margin-right: 250px;
    margin-bottom: 20px;
+   font-size: 20px;
 }
 .another {
   margin-top: 0px;
@@ -1184,22 +1199,26 @@ h2 {
   margin-right: 160px;
   display: flex;
   flex-direction:column-reverse;
+  font-size: 20px;
 }
 .sentence {
   margin-right: 0px;
   margin-left: 100px;
   width: 380px;
+  font-size: 20px;
 }
 .last {
   width: 380px;
   margin-left: 15px;
   display: flex;
   flex-direction: column;
+  font-size: 20px;
 }
 .russia {
   margin-right: 10px;
   margin-left: 15px;
   width: 380px;
+  font-size: 20px;
 }
 .dangerous {
   width: 380px;
@@ -1209,6 +1228,7 @@ h2 {
   width: 380px;
   margin-right: 75px;
   margin-bottom: 0px;
+  font-size: 20px;
 }
 .ny {
   width: 560px;
@@ -1223,11 +1243,13 @@ h2 {
   display: flex;
   flex-direction: column-reverse;
   margin-bottom: 0px;
+  font-size: 20px;
 }
 .sentence2 {
    width: 380px;
    margin-right: 60px;
    margin-left: 0px;
+   font-size: 20px;
 }
 .scrollTop {
   margin-top: 0px;
