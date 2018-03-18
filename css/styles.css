@@ -567,7 +567,7 @@ a {
     margin-right: 60px;
   }
   font {
-    /*text-align: left;*/
+
     margin-left: 26px;
     font-size: 19px;
     display: list-item;
@@ -810,7 +810,7 @@ a {
       display: flex;
       font-size: 26px;
       flex-direction: column;
-      margin-left: 0px;
+      margin-left: 10px;
     }
     h5 {
       width: 335px;
@@ -848,7 +848,7 @@ a {
      margin-right: 60px;
    }
    font {
-     /*text-align: left;*/
+
      margin-left: 26px;
      font-size: 19px;
      display: list-item;
@@ -1128,7 +1128,7 @@ h4 {
   margin-right: 60px;
 }
 font {
-  /*text-align: left;*/
+
   margin-left: 26px;
   font-size: 19px;
   display: list-item;
@@ -1301,7 +1301,7 @@ h5 {
 }
 
 
-@media only screen and (max-width: 1024px) and (min-width: 667px) {
+/* @media only screen and (min-width: 667px) {
 
    .header {
        width: 1024px;
@@ -1421,7 +1421,7 @@ h5 {
     margin-right: 20px;
   }
   font {
-    /*text-align: left;*/
+
     margin-left: 26px;
     font-size: 19px;
     display: list-item;
@@ -1596,7 +1596,7 @@ h5 {
    margin-bottom: 0px;
   }
 
-}
+} */
 
 /* @media only screen and (max-width: 1200px) and (min-width: 800px) {
 
@@ -1720,7 +1720,7 @@ h5 {
   }
   font {
     /*text-align: left;*/
-    margin-left: 26px;
+    /* margin-left: 26px;
     font-size: 19px;
     display: list-item;
     width: 660px;
@@ -1894,4 +1894,4 @@ h5 {
    margin-bottom: 0px;
   }
 
-} */
+}
