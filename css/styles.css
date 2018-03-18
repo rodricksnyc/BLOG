@@ -810,7 +810,7 @@ a {
       display: flex;
       font-size: 26px;
       flex-direction: column;
-      margin-left: 10px;
+      margin-left: 0px;
     }
     h5 {
       width: 335px;
@@ -984,7 +984,7 @@ a {
     width: 300px;
     display: flex;
     flex-direction: column;
-    margin-left: 0px;
+    margin-left: -10px;
     margin-right: 15px;
   }
   .scary {
