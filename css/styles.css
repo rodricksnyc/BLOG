@@ -787,9 +787,8 @@ a {
     .name {
       width: 600px;
       font-size: 34px;
-      margin-right: 0px;
       display: flex;
-      margin-left: 180px;
+      margin-left: 175px;
       flex-direction: column;
     }
     .picture {
