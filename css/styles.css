@@ -813,14 +813,14 @@ a {
     }
 
     h1 {
-      width: 350px;
+      width: 355px;
       display: flex;
       font-size: 26px;
       flex-direction: column;
       margin-left: 0px;
     }
     h5 {
-      width: 320px;
+      width: 340px;
       font-size: 20px;
       display: flex;
       flex-direction: column;
@@ -1107,7 +1107,7 @@ body {
    margin-left: 0px;
  }
  h5 {
-   width: 360px;
+   width: 380px;
    font-size: 20px;
    display: flex;
    flex-direction: column;
