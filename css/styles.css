@@ -1090,14 +1090,14 @@ body {
    display: flex;
    font-size: 26px;
    flex-direction: column;
-   margin-left: -10px;
+   margin-left: 0px;
  }
  h5 {
    width: 360px;
    font-size: 20px;
    display: flex;
    flex-direction: column;
-   margin-left: -10px;
+   margin-left: 0px;
  }
  #latest {
    margin-left: 0px;
@@ -1261,7 +1261,7 @@ width: 100%;
  margin-left: 5px;
 }
 .firstone {
- width: 300px;
+ width: 310px;
  display: flex;
  flex-direction: column;
  margin-left: 0px;
