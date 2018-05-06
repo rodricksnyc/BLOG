@@ -516,6 +516,7 @@ a {
      display: flex;
      flex-direction: column;
    }
+  
    .top-block {
      width: 330px;
      display: flex;
