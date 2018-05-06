@@ -1532,12 +1532,15 @@ p {
   font {
     width: 570px;
   }
+  .middle {
+    width: 600px;
+  }
   .firstone {
     width: 600px;
   }
   .quote {
     width: 560px;
-    margin-right: 0px;
+    margin-right: 60px;
   }
   .another {
     width: 600px;
@@ -1739,11 +1742,10 @@ body {
    margin-left: 540px;
    flex-direction: column;
  }
- .picture {
-   width: 740px;
-   display: flex;
-   flex-direction: column;
- }
+.kompromat {
+width: 1400px;
+
+}
  .top-block {
    width: 750px;
    display: flex;
@@ -1761,7 +1763,7 @@ body {
  }
  h5 {
    width: 720px;
-   font-size: 20px;
+   font-size: 24px;
    display: flex;
    flex-direction: column;
    margin-left: 0px;
@@ -1786,7 +1788,7 @@ body {
   height: 0px;
 }
 h4 {
-  font-size: 26px;
+  font-size: 30px;
    width: 700px;
 }
 .four {
@@ -1794,6 +1796,9 @@ h4 {
   width: 340px;
   font-size: 26px;
   margin-right: 60px;
+}
+h2 {
+  font-size: 30px;
 }
 font {
 
@@ -1837,6 +1842,7 @@ h2 {
   display: flex;
   flex-direction: column;
   margin-bottom: 0px;
+  font-size: 24px;
 }
 .quote {
    width: 700px;
@@ -1844,7 +1850,7 @@ h2 {
    text-align: left;
    margin-right: 120px;
    margin-bottom: 20px;
-   font-size: 20px;
+  font-size: 24px;
 }
 .another {
   margin-top: 0px;
@@ -1853,26 +1859,27 @@ h2 {
   margin-right: 160px;
   display: flex;
   flex-direction:column-reverse;
+  font-size: 24px;
 }
 .sentence {
   margin-right: 0px;
   margin-left: 500px;
   width: 700px;
-  font-size: 20px;
+  font-size: 24px;
 }
 .last {
   width: 620px;
   margin-left: 40px;
   display: flex;
   flex-direction: column;
-  font-size: 20px;
+  font-size: 24px;
 
 }
 .russia {
   margin-right: 10px;
   margin-left: 50px;
   width: 620px;
-  font-size: 20px;
+  font-size: 24px;
 }
 .dangerous {
   width: 500px;
@@ -1882,7 +1889,7 @@ h2 {
   width: 700px;
   margin-right: 0px;
   margin-bottom: 0px;
-  font-size: 20px;
+  font-size: 24px;
 
 }
 .ny {
@@ -1904,7 +1911,7 @@ h2 {
    width: 680px;
    margin-right: 0px;
    margin-left: 300px;
-   font-size: 20px;
+   font-size: 24px;
 
 }
 .scrollTop {
@@ -1987,6 +1994,125 @@ h3 {
   margin-right: 320px;
   opacity: .70;
 }
+}
+
+@media only screen and (max-width: 1030px) and (min-width: 1024px){
+  body {
+    max-width: 1030px;
+  }
+  .header {
+      width: 1000px;
+      display: flex;
+      justify-content: center;
+  }
+  .picture{
+    width: 900px;
+  }
+  .name {
+    display: flex;
+    justify-content: center;
+    margin-left: 715px;
+    font-size: 46px;
+  }
+  .one{
+    font-size: 24px;
+  }
+  .top {
+    display: flex;
+    justify-content: center;
+    margin-right: -620px;
+  }
+  .site-wrapper {
+   overflow-x: hidden;
+   overflow-y: scroll !important;
+   max-width: 1020px;
+  }
+  .footy {
+    margin-left: 1040px;
+    font-size: 15px;
+    width: 300px;
+  }
+  h1 {
+    margin-left: 0px;
+    width: 600px;
+    font-size: 32px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  h3 {
+    margin-left: 1000px;
+    width: 300px;
+    font-size: 20px;
+  }
+  h5 {
+    width: 940px;
+    font-size: 28px;
+  }
+  h4 {
+    font-size: 34px;
+    width: 900px;
+  }
+  .inner {
+    width: 900px;
+  }
+  .on {
+    width: 900px;
+  }
+  font {
+    width: 800px;
+  }
+  .middle {
+    width: 900px;
+  }
+
+  .quote {
+    width: 800px;
+    margin-right: 60px;
+    font-size: 26px;
+  }
+  .another {
+    width: 900px;
+    margin-left: 20px;
+  }
+  .sentence {
+    width: 840px;
+    margin-left: 20px;
+    font-size: 26px;
+  }
+  .ny {
+    width: 700px;
+    /* height: 719px; */
+    margin-left: 10px;
+  }
+  .last {
+    width: 900px;
+    margin-left: 0px;
+  }
+  .dangerous {
+    width: 800px;
+  }
+  .sociopath {
+    width: 800px;
+    margin-left: 100px;
+    font-size: 26px;
+  }
+  .russia {
+    width: 800px;
+    font-size: 26px;
+  }
+  .another2 {
+    width: 900px;
+    margin-left: 0px;
+  }
+  .sentence2 {
+    width: 860px;
+    margin-right: 200px;
+    font-size: 26px;
+  }
+  p {
+    margin-left: 360px;
+  }
 }
 
 /* @media only screen and (max-width: 1366px) and (min-width: 1024px) {
