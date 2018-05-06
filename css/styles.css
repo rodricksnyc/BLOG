@@ -473,7 +473,8 @@ a {
      margin-right: 120px;
    }
    .one {
-     font-size: 20px;
+     font-size: 18px;
+     margin-right: 5px;
      border-bottom: 1px solid #C6C6C8;
    }
    li:nth-child(2) {
@@ -1324,6 +1325,9 @@ h5 {
 }
 
 @media only screen and (max-width: 530px) and (min-width: 528px) {
+  body {
+    max-width: 530px;
+  }
 .name {
   margin-left: 320px;
 }
@@ -1333,7 +1337,7 @@ h5 {
 .site-wrapper {
  overflow-x: hidden;
  overflow-y: scroll !important;
- max-width: 500px;
+ max-width: 530px;
 }
 .footy {
   margin-left: 400px;
@@ -1401,7 +1405,99 @@ p {
   margin-left: 120px;
 }
 }
+@media only screen and (max-width: 650px) and (min-width: 529px) {
+  body {
+    max-width: 650px;
+  }
+  .picture{
+    width: 600px;
+  }
+  .name {
+    margin-left: 400px;
+  }
+  .top {
+    margin-right: -220px;
+  }
+  .site-wrapper {
+   overflow-x: hidden;
+   overflow-y: scroll !important;
+   max-width: 650px;
+  }
+  .footy {
+    margin-left: 400px;
+    font-size: 9px;
+    width: 200px;
+  }
+  h3 {
+    margin-left: 400px;
+    width: 200px;
+    font-size: 16px;
+  }
+  h5 {
+    width: 580px;
+  }
+  h4 {
+    width: 580px;
+  }
+  .inner {
+    width: 580px;
+  }
+  .on {
+    width: 580px;
+  }
+  font {
+    width: 540px;
+  }
+  .quote {
+    width: 520px;
+    margin-right: 60px;
+  }
+  .another {
+    width: 600px;
+    margin-left: 0px;
+  }
+  .sentence {
+    width: 500px;
+    margin-left: 10px;
+  }
+  .ny {
+    width: 500px;
+    height: 719px;
+    margin-left: 10px;
+  }
+  .last {
+    width: 600px;
+  }
+  .dangerous {
+    width: 600px;
+  }
+  .sociopath {
+    width: 560px;
+  }
+  .russia {
+    width: 520px;
+  }
+  .another2 {
+    width: 600px;
+    margin-left: 0px;
+  }
+  .sentence2 {
+    width: 500px;
+    margin-right: 0px;
+  }
+  p {
+    margin-left: 160px;
+  }
 
+
+
+
+
+
+
+
+
+}
 
 
 
