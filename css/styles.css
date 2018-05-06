@@ -1576,10 +1576,113 @@ p {
   p {
     margin-left: 190px;
   }
-
-
 }
+@media only screen and (max-width: 740px) and (min-width: 671px) {
+  body {
+    max-width: 740px;
+  }
+  .picture{
+    width: 680px;
+  }
+  .name {
+    margin-left: 500px;
+    font-size: 36px;
+  }
+  .top {
+    margin-right: -430px;
+  }
+  .site-wrapper {
+   overflow-x: hidden;
+   overflow-y: scroll !important;
+   max-width: 740px;
+  }
+  .footy {
+    margin-left: 460px;
+    font-size: 9px;
+    width: 200px;
+  }
+  h1 {
+    margin-left: 0px;
+    width: 600px;
+    font-size: 24px;
+  }
+  h2 {
+    font-size: 24px;
+  }
+  h3 {
+    margin-left: 460px;
+    width: 200px;
+    font-size: 16px;
+  }
+  h5 {
+    width: 680px;
+    font-size: 24px;
+  }
+  h4 {
+    font-size: 30px;
+    width: 680px;
+  }
+  .inner {
+    width: 680px;
+  }
+  .on {
+    width: 680px;
+  }
+  font {
+    width: 640px;
+  }
+  .middle {
+    width: 640px;
+  }
 
+  .quote {
+    width: 600px;
+    margin-right: 60px;
+    font-size: 24px;
+  }
+  .another {
+    width: 600px;
+    margin-left: 40px;
+  }
+  .sentence {
+    width: 600px;
+    margin-left: 20px;
+    font-size: 24px;
+  }
+  .ny {
+    width: 500px;
+    height: 719px;
+    margin-left: 10px;
+  }
+  .last {
+    width: 700px;
+    margin-left: 0px;
+  }
+  .dangerous {
+    width: 600px;
+  }
+  .sociopath {
+    width: 660px;
+    margin-left: 100px;
+    font-size: 24px;
+  }
+  .russia {
+    width: 600px;
+    font-size: 24px;
+  }
+  .another2 {
+    width: 700px;
+    margin-left: 0px;
+  }
+  .sentence2 {
+    width: 660px;
+    margin-right: 0px;
+    font-size: 24px;
+  }
+  p {
+    margin-left: 220px;
+  }
+}
 
 
 
