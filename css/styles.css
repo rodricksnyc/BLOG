@@ -1047,7 +1047,7 @@ body {
    width: 700px;
    display: flex;
    flex-direction: column;
-   margin-right: 160px;
+   margin-right: 135px;
  }
  .one {
    font-size: 20px;
@@ -1084,7 +1084,7 @@ body {
    font-size: 34px;
    margin-right: 0px;
    display: flex;
-   margin-left: 200px;
+   margin-left: 220px;
    flex-direction: column;
  }
  .picture {
@@ -1329,10 +1329,10 @@ h5 {
     max-width: 530px;
   }
 .name {
-  margin-left: 320px;
+  margin-left: 330px;
 }
 .top {
-  margin-right: -60px;
+  margin-right: -80px;
 }
 .site-wrapper {
  overflow-x: hidden;
@@ -1413,10 +1413,16 @@ p {
     width: 600px;
   }
   .name {
-    margin-left: 400px;
+    margin-left: 440px;
   }
   .top {
-    margin-right: -220px;
+    margin-right: -290px;
+  }
+  .scary {
+    width: 640px;
+  }
+  .women {
+      width: 640px;
   }
   .site-wrapper {
    overflow-x: hidden;
@@ -1496,11 +1502,17 @@ p {
   .picture{
     width: 640px;
   }
+  .scary {
+    width: 650px;
+  }
+  .women {
+      width: 650px;
+  }
   .name {
-    margin-left: 440px;
+    margin-left: 460px;
   }
   .top {
-    margin-right: -300px;
+    margin-right: -340px;
   }
   .site-wrapper {
    overflow-x: hidden;
@@ -1636,6 +1648,12 @@ p {
   }
   .middle {
     width: 640px;
+  }
+  .scary {
+    width: 700px;
+  }
+  .women {
+      width: 700px;
   }
 
   .quote {
@@ -1955,12 +1973,12 @@ width: 100%;
 }
 .scary {
  margin-left: 0px;
- width: 500px;
+ width: 740px;
  margin-top: 0px;
 }
 .women {
  margin-left: 0px;
- width: 500px;
+ width: 740px;
 }
 .archived {
  margin-left: 0px;
@@ -2112,6 +2130,12 @@ h3 {
   }
   p {
     margin-left: 360px;
+  }
+  .scary {
+    width: 1000px;
+  }
+  .women {
+      width: 1000px;
   }
 }
 
