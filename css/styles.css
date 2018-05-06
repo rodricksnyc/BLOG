@@ -1406,7 +1406,7 @@ p {
   margin-left: 120px;
 }
 }
-@media only screen and (max-width: 650px) and (min-width: 529px) {
+@media only screen and (max-width: 650px) and (min-width: 531px) {
   body {
     max-width: 650px;
   }
@@ -1441,7 +1441,7 @@ p {
     font-size: 16px;
   }
   h5 {
-    width: 580px;
+    width: 600px;
   }
   h4 {
     width: 580px;
@@ -1531,7 +1531,7 @@ p {
     font-size: 16px;
   }
   h5 {
-    width: 600px;
+    width: 630px;
   }
   h4 {
     width: 600px;
