@@ -1496,7 +1496,7 @@ p {
     margin-left: 160px;
   }
 }
-@media only screen and (max-width: 670px) and (min-width: 660px) {
+@media only screen and (max-width: 670px) and (min-width: 651px) {
   body {
     max-width: 670px;
   }
@@ -1549,7 +1549,7 @@ p {
     width: 600px;
   }
   .firstone {
-    width: 600px;
+    width: 320px;
   }
   .quote {
     width: 560px;
