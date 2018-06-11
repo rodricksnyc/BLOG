@@ -29,7 +29,7 @@ main {
 }
 .noBullet {
   list-style-type: none;
-  
+
 }
 .hide {
   display: none;
@@ -405,28 +405,28 @@ nav ul,nav li {
   margin-left: 160px;
 }
 .old {
-  margin-left: 160px;
+  /* margin-left: 160px; */
   display: none;
 }
 .old1 {
-  margin-left: 160px;
+  /* margin-left: 160px; */
   display: none;
 }
 .old2 {
-  margin-left: 160px;
+  /* margin-left: 160px; */
   display: none;
 }
 .old3 {
-  margin-left: 160px;
+  /* margin-left: 160px; */
   display: none;
 }
 .old4 {
-  margin-left: 160px;
+  /* margin-left: 160px; */
   display: none;
 }
 
 .old5 {
-  margin-left: 160px;
+  /* margin-left: 160px; */
   display: none;
 }
 
@@ -747,9 +747,9 @@ a {
  .archived {
    margin-left: 0px;
  }
- .old {
+ /* .old {
    margin-left: 0px;
- }
+ } */
  .style4 {
    margin-left: 0px;
    width: 100%;
@@ -1034,9 +1034,9 @@ a {
   .archived {
     margin-left: 0px;
   }
-  .old {
+  /* .old {
     margin-left: 0px;
-  }
+  } */
   .style4 {
     margin-left: 0px;
     width: 100%;
@@ -1323,9 +1323,9 @@ width: 100%;
 .archived {
  margin-left: 0px;
 }
-.old {
+/* .old {
  margin-left: 0px;
-}
+} */
 .style4 {
  margin-left: 0px;
  width: 100%;
@@ -2008,9 +2008,9 @@ p {
   .archived {
    margin-left: 0px;
   }
-  .old {
+  /* .old {
    margin-left: 0px;
-  }
+  } */
   .style4 {
    margin-left: 0px;
    width: 100%;
@@ -2298,9 +2298,9 @@ width: 100%;
 .archived {
  margin-left: 0px;
 }
-.old {
+/* .old {
  margin-left: 0px;
-}
+} */
 .style4 {
  margin-left: 0px;
  width: 100%;
