@@ -28,8 +28,34 @@ $( document ).ready(function() {
 
   });
 
+  $('.old').hide();
   $('.view').click(function() {
     $('.old').show();
+  });
+
+  $('.old1').hide();
+  $('.view1').click(function() {
+    $('.old1').show();
+  });
+
+  $('.old2').hide();
+  $('.view2').click(function() {
+    $('.old2').show();
+  });
+
+  $('.old3').hide();
+  $('.view3').click(function() {
+    $('.old3').show();
+  });
+
+  $('.old4').hide();
+  $('.view4').click(function() {
+    $('.old4').show();
+  });
+
+  $('.old5').hide();
+  $('.view5').click(function() {
+    $('.old5').show();
   });
 
 

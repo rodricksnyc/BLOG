@@ -29,6 +29,7 @@ main {
 }
 .noBullet {
   list-style-type: none;
+  
 }
 .hide {
   display: none;
@@ -391,10 +392,6 @@ font {
 
 }
 
-/*a:hover,a:focus {
-  text-decoration:none;
-}*/
-
 
 nav ul,nav li {
   outline:0;
@@ -411,6 +408,28 @@ nav ul,nav li {
   margin-left: 160px;
   display: none;
 }
+.old1 {
+  margin-left: 160px;
+  display: none;
+}
+.old2 {
+  margin-left: 160px;
+  display: none;
+}
+.old3 {
+  margin-left: 160px;
+  display: none;
+}
+.old4 {
+  margin-left: 160px;
+  display: none;
+}
+
+.old5 {
+  margin-left: 160px;
+  display: none;
+}
+
 .area {
   float: left;
   background: #6C030B;
