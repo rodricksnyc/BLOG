@@ -2456,12 +2456,12 @@ h3 {
       width: 1000px;
   }
 }
-@media only screen and (max-width: 1500px) and (min-width: 1200px) {
+@media only screen and (max-width: 1400px) and (min-width: 1200px) {
    body {
-   max-width: 1400px;
+   max-width: 1200px;
   }
   .header {
-      width:100%;
+      max-width:1200px;
       display: flex;
 
   }
@@ -2470,19 +2470,19 @@ h3 {
     font-size: 46px;
   }
   .one{
-    font-size: 22px;
+    font-size: 17px;
 
   }
   .top {
-    margin-left:5%;
+    margin-left: 10%;
     display: flex;
     justify-content: flex-end;
 
   }
   .site-wrapper {
-     overflow-x: hidden;
-     overflow-y: scroll !important;
-     max-width: 1400px;
+     overflow-x:visible;
+     overflow-y:visible;
+     max-width: 1200px;
   }
   .picture {
     width:100%;
