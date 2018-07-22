@@ -2456,9 +2456,9 @@ h3 {
       width: 1000px;
   }
 }
- @media only screen and (min-width: 1201px) {
+ @media only screen and (min-width: 1200px) {
    body {
-  width:100%
+   max-width: 1600px;
   }
   .header {
       width:100%;
@@ -2480,10 +2480,53 @@ h3 {
 
   }
   .site-wrapper {
-   overflow-x:visible;
-   overflow-y:visible;
-   width:100%;
+    overflow-x:visible;
+    overflow-y:visible;
+    max-width: 1600px;
   }
-
+  .picture {
+    width:100%;
+    display: flex;
+    justify-content:center;
+  }
+.kompromat {
+  width:100%;
+  display: flex;
+  justify-content:center;
+}
+.top-block {
+  width:100%;
+  display: flex;
+  justify-content:center;
+}
+.firstone {
+  width:100%;
+  display: flex;
+  flex-direction: column;
+}
+#about {
+  width:100%;
+  display: flex;
+}
+h5 {
+  width:100%;
+}
+h1 {
+  width:100%;
+}
+#latest {
+  width:100%;
+}
+.inner {
+  width:99%;
+}
+.on {
+  width:99%;
+}
+font {
+    display: list-item;
+    margin-left: 49px;
+    font-size: 28px;
+}
 
 }
