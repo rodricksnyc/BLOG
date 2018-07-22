@@ -2458,36 +2458,31 @@ h3 {
 }
  @media only screen and (min-width: 1201px) {
    body {
-    min-width: 1200px;
+  width:100%
   }
   .header {
       width:100%;
+      display: flex;
 
   }
 
   .name {
-    display: flex;
-    justify-content: flex-start;
     font-size: 46px;
   }
   .one{
     font-size: 24px;
-    display: flex;
-    align-items: flex-end;
-    justify-content: flex-end;
-    left: 80px;
+
   }
   .top {
-    width:100%;
+    margin-left:30%;
     display: flex;
-    align-items: flex-end;
     justify-content: flex-end;
-    margin-right:-100px;
+
   }
   .site-wrapper {
    overflow-x:visible;
    overflow-y:visible;
-   min-width: 1200px;
+   width:100%;
   }
 
 
