@@ -2475,7 +2475,7 @@ h3 {
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
-    margin-right:-100px;
+    margin-right:-20px;
   }
   .top {
     width:100%;
