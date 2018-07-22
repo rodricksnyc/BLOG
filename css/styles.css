@@ -2456,9 +2456,9 @@ h3 {
       width: 1000px;
   }
 }
- @media only screen and (min-width: 1200px) {
+@media only screen and (max-width: 1500px) and (min-width: 1200px) {
    body {
-   max-width: 1600px;
+   max-width: 1400px;
   }
   .header {
       width:100%;
@@ -2470,19 +2470,19 @@ h3 {
     font-size: 46px;
   }
   .one{
-    font-size: 24px;
+    font-size: 22px;
 
   }
   .top {
-    margin-left:30%;
+    margin-left:5%;
     display: flex;
     justify-content: flex-end;
 
   }
   .site-wrapper {
-    overflow-x:visible;
-    overflow-y:visible;
-    max-width: 1600px;
+     overflow-x: hidden;
+     overflow-y: scroll !important;
+     max-width: 1400px;
   }
   .picture {
     width:100%;
