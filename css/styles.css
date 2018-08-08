@@ -784,7 +784,7 @@ a {
       width: 600px;
       display: flex;
       flex-direction: column;
-      margin-left: 4%;
+      margin-left: -4%;
     }
     .one {
       font-size: 20px;
@@ -1070,7 +1070,7 @@ body {
    width: 700px;
    display: flex;
    flex-direction: column;
-   margin-left:4%;
+   margin-left:-4%;
  }
  .one {
    font-size: 20px;
@@ -1355,7 +1355,7 @@ h5 {
   margin-left: 330px;
 }
 .top {
-  margin-right: -80px;
+  margin-left:11%;
 }
 .site-wrapper {
  overflow-x: hidden;
