@@ -2474,9 +2474,9 @@ h3 {
 
   }
   .top {
-    margin-left: 70%;
+    margin-left: 80%;
     display: flex;
-    justify-content: flex-end;
+    flex-direction: column;
 
   }
   .site-wrapper {
