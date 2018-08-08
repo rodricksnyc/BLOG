@@ -2463,9 +2463,11 @@ h3 {
   .header {
       max-width:1200px;
       display: flex;
+  }
+  .logo {
+    height:120px;
 
   }
-
   .name {
     font-size: 46px;
   }
@@ -2474,7 +2476,7 @@ h3 {
 
   }
   .top {
-    margin-left: 50%;
+    margin-left: 6%;
     display: flex;
     justify-content: flex-end;
 
