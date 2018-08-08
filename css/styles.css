@@ -492,7 +492,7 @@ a {
      width:540px;
      display: flex;
      flex-direction: column;
-     margin-right: 6%;
+     margin-left: 6%;
    }
    .one {
      font-size: 18px;
@@ -784,7 +784,7 @@ a {
       width: 600px;
       display: flex;
       flex-direction: column;
-      margin-right: 4%;
+      margin-left: 4%;
     }
     .one {
       font-size: 20px;
