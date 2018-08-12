@@ -432,6 +432,9 @@ nav ul,nav li {
 .old6 {
   display: none;
 }
+.old7 {
+  display: none;
+}
 
 .area {
   float: left;
@@ -2531,7 +2534,7 @@ h1 {
 font {
     display: list-item;
     margin-left: 49px;
-  
+
 }
 
 }
