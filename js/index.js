@@ -63,7 +63,7 @@ $( document ).ready(function() {
   });
   $('.old7').hide();
   $('.view7').click(function() {
-    $('.old7').show();
+  $('.old7').show();
   });
 
 
