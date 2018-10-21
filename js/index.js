@@ -69,6 +69,10 @@ $( document ).ready(function() {
   $('.view8').click(function() {
   $('.old8').show();
   });
+  $('.old9').hide();
+  $('.view9').click(function() {
+  $('.old9').show();
+  });
 
 
   function w3_open() {
