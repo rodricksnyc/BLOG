@@ -20,7 +20,7 @@ $( document ).ready(function() {
   }
 
   var scrollTop = $(".scrollTop");
-  var scrollSpeed = 3000;
+  var scrollSpeed = 20000;
   $(scrollTop).click(function() {
     $('html, body').animate({
       scrollTop: 0
