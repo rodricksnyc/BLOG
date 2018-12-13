@@ -79,6 +79,11 @@ $( document ).ready(function() {
   $('.old10').show();
   });
 
+  $('.old11').hide();
+  $('.view11').click(function() {
+  $('.old11').show();
+  });
+
 
   function w3_open() {
     document.getElementById("mySidebar").style.display = "block";
