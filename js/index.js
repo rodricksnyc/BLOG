@@ -90,6 +90,11 @@ $( document ).ready(function() {
   });
 
 
+  $('.old13').hide();
+  $('.view13').click(function() {
+  $('.old13').show();
+  });
+
   function w3_open() {
     document.getElementById("mySidebar").style.display = "block";
   }

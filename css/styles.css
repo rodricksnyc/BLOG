@@ -455,6 +455,10 @@ nav ul,nav li {
   display: none;
 }
 
+.old13 {
+  display: none;
+}
+
 .area {
   float: left;
   background: #6C030B;
