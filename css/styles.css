@@ -545,7 +545,7 @@ width:100%;
    .one {
      font-size: 18px;
      margin-right: 5px;
-     border-bottom: 1px solid #C6C6C8;
+     /* border-bottom: 1px solid #C6C6C8; */
    }
    li:nth-child(2) {
      order: 1;
@@ -839,7 +839,7 @@ width:100%;
     }
     .one {
       font-size: 20px;
-      border-bottom: 1px solid #C6C6C8;
+      /* border-bottom: 1px solid #C6C6C8; */
     }
     li:nth-child(2) {
       order: 1;
