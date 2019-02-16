@@ -906,7 +906,7 @@ width:100%;
       width: 600px;
       display: flex;
       flex-direction: column;
-      border-top: 2px solid #C6C6C8;
+
     }
     .on {
       margin-left: 0px;
@@ -914,6 +914,7 @@ width:100%;
       flex-direction: column;
       text-align: left;
       width: 400px;
+        border-top: 2px solid #C6C6C8;
     }
    .inner {
      margin-left: 0px;
