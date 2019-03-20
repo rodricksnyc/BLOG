@@ -95,6 +95,12 @@ $( document ).ready(function() {
   $('.old13').show();
   });
 
+
+  $('.old14').hide();
+  $('.view14').click(function() {
+  $('.old14').show();
+  });
+
   function w3_open() {
     document.getElementById("mySidebar").style.display = "block";
   }
