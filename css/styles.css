@@ -465,6 +465,10 @@ nav ul,nav li {
   display: none;
 }
 
+.old16 {
+  display: none;
+}
+
 .area {
   float: left;
   background: #6C030B;

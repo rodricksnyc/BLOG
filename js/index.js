@@ -102,11 +102,14 @@ $( document ).ready(function() {
   });
 
 
-
-    $('.old15').hide();
-    $('.view15').click(function() {
+  $('.old15').hide();
+  $('.view15').click(function() {
     $('.old15').show();
-    });
+  });
+  $('.old16').hide();
+  $('.view16').click(function() {
+    $('.old16').show();
+  });
 
   function w3_open() {
     document.getElementById("mySidebar").style.display = "block";
