@@ -111,6 +111,12 @@ $( document ).ready(function() {
     $('.old16').show();
   });
 
+
+  $('.old17').hide();
+  $('.view17').click(function() {
+    $('.old17').show();
+  });
+
   function w3_open() {
     document.getElementById("mySidebar").style.display = "block";
   }
