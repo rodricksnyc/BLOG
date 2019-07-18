@@ -473,6 +473,10 @@ nav ul,nav li {
   display: none;
 }
 
+.old18 {
+  display: none;
+}
+
 .area {
   float: left;
   background: #6C030B;
