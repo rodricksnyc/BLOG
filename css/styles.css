@@ -477,6 +477,18 @@ nav ul,nav li {
   display: none;
 }
 
+.responsive {
+  max-width:800px;
+}
+
+@media (max-width:767px) {
+
+  .responsive {
+    max-width:400px;
+  }
+
+}
+
 .area {
   float: left;
   background: #6C030B;
