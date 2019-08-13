@@ -122,6 +122,11 @@ $( document ).ready(function() {
     $('.old18').show();
   });
 
+  $('.old19').hide();
+  $('.view19').click(function() {
+    $('.old19').show();
+  });
+
   function w3_open() {
     document.getElementById("mySidebar").style.display = "block";
   }
